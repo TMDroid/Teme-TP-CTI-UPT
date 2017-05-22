@@ -1,0 +1,3452 @@
+{
+	{a}
+	{c}
+	{l}
+	{o}
+	{r}
+	{t}
+	{u}
+}
+
+{
+	{a, a}
+	{a, c}
+	{a, l}
+	{a, o}
+	{a, r}
+	{a, t}
+	{a, u}
+	{c, c}
+	{c, l}
+	{c, o}
+	{c, r}
+	{c, t}
+	{c, u}
+	{l, l}
+	{l, o}
+	{l, r}
+	{l, t}
+	{l, u}
+	{o, o}
+	{o, r}
+	{o, t}
+	{o, u}
+	{r, r}
+	{r, t}
+	{r, u}
+	{t, t}
+	{t, u}
+	{u, u}
+}
+
+{
+	{a, a, a}
+	{a, a, c}
+	{a, a, l}
+	{a, a, o}
+	{a, a, r}
+	{a, a, t}
+	{a, a, u}
+	{a, c, c}
+	{a, c, l}
+	{a, c, o}
+	{a, c, r}
+	{a, c, t}
+	{a, c, u}
+	{a, l, l}
+	{a, l, o}
+	{a, l, r}
+	{a, l, t}
+	{a, l, u}
+	{a, o, o}
+	{a, o, r}
+	{a, o, t}
+	{a, o, u}
+	{a, r, r}
+	{a, r, t}
+	{a, r, u}
+	{a, t, t}
+	{a, t, u}
+	{a, u, u}
+	{c, c, c}
+	{c, c, l}
+	{c, c, o}
+	{c, c, r}
+	{c, c, t}
+	{c, c, u}
+	{c, l, l}
+	{c, l, o}
+	{c, l, r}
+	{c, l, t}
+	{c, l, u}
+	{c, o, o}
+	{c, o, r}
+	{c, o, t}
+	{c, o, u}
+	{c, r, r}
+	{c, r, t}
+	{c, r, u}
+	{c, t, t}
+	{c, t, u}
+	{c, u, u}
+	{l, l, l}
+	{l, l, o}
+	{l, l, r}
+	{l, l, t}
+	{l, l, u}
+	{l, o, o}
+	{l, o, r}
+	{l, o, t}
+	{l, o, u}
+	{l, r, r}
+	{l, r, t}
+	{l, r, u}
+	{l, t, t}
+	{l, t, u}
+	{l, u, u}
+	{o, o, o}
+	{o, o, r}
+	{o, o, t}
+	{o, o, u}
+	{o, r, r}
+	{o, r, t}
+	{o, r, u}
+	{o, t, t}
+	{o, t, u}
+	{o, u, u}
+	{r, r, r}
+	{r, r, t}
+	{r, r, u}
+	{r, t, t}
+	{r, t, u}
+	{r, u, u}
+	{t, t, t}
+	{t, t, u}
+	{t, u, u}
+	{u, u, u}
+}
+
+{
+	{a, a, a, a}
+	{a, a, a, c}
+	{a, a, a, l}
+	{a, a, a, o}
+	{a, a, a, r}
+	{a, a, a, t}
+	{a, a, a, u}
+	{a, a, c, c}
+	{a, a, c, l}
+	{a, a, c, o}
+	{a, a, c, r}
+	{a, a, c, t}
+	{a, a, c, u}
+	{a, a, l, l}
+	{a, a, l, o}
+	{a, a, l, r}
+	{a, a, l, t}
+	{a, a, l, u}
+	{a, a, o, o}
+	{a, a, o, r}
+	{a, a, o, t}
+	{a, a, o, u}
+	{a, a, r, r}
+	{a, a, r, t}
+	{a, a, r, u}
+	{a, a, t, t}
+	{a, a, t, u}
+	{a, a, u, u}
+	{a, c, c, c}
+	{a, c, c, l}
+	{a, c, c, o}
+	{a, c, c, r}
+	{a, c, c, t}
+	{a, c, c, u}
+	{a, c, l, l}
+	{a, c, l, o}
+	{a, c, l, r}
+	{a, c, l, t}
+	{a, c, l, u}
+	{a, c, o, o}
+	{a, c, o, r}
+	{a, c, o, t}
+	{a, c, o, u}
+	{a, c, r, r}
+	{a, c, r, t}
+	{a, c, r, u}
+	{a, c, t, t}
+	{a, c, t, u}
+	{a, c, u, u}
+	{a, l, l, l}
+	{a, l, l, o}
+	{a, l, l, r}
+	{a, l, l, t}
+	{a, l, l, u}
+	{a, l, o, o}
+	{a, l, o, r}
+	{a, l, o, t}
+	{a, l, o, u}
+	{a, l, r, r}
+	{a, l, r, t}
+	{a, l, r, u}
+	{a, l, t, t}
+	{a, l, t, u}
+	{a, l, u, u}
+	{a, o, o, o}
+	{a, o, o, r}
+	{a, o, o, t}
+	{a, o, o, u}
+	{a, o, r, r}
+	{a, o, r, t}
+	{a, o, r, u}
+	{a, o, t, t}
+	{a, o, t, u}
+	{a, o, u, u}
+	{a, r, r, r}
+	{a, r, r, t}
+	{a, r, r, u}
+	{a, r, t, t}
+	{a, r, t, u}
+	{a, r, u, u}
+	{a, t, t, t}
+	{a, t, t, u}
+	{a, t, u, u}
+	{a, u, u, u}
+	{c, c, c, c}
+	{c, c, c, l}
+	{c, c, c, o}
+	{c, c, c, r}
+	{c, c, c, t}
+	{c, c, c, u}
+	{c, c, l, l}
+	{c, c, l, o}
+	{c, c, l, r}
+	{c, c, l, t}
+	{c, c, l, u}
+	{c, c, o, o}
+	{c, c, o, r}
+	{c, c, o, t}
+	{c, c, o, u}
+	{c, c, r, r}
+	{c, c, r, t}
+	{c, c, r, u}
+	{c, c, t, t}
+	{c, c, t, u}
+	{c, c, u, u}
+	{c, l, l, l}
+	{c, l, l, o}
+	{c, l, l, r}
+	{c, l, l, t}
+	{c, l, l, u}
+	{c, l, o, o}
+	{c, l, o, r}
+	{c, l, o, t}
+	{c, l, o, u}
+	{c, l, r, r}
+	{c, l, r, t}
+	{c, l, r, u}
+	{c, l, t, t}
+	{c, l, t, u}
+	{c, l, u, u}
+	{c, o, o, o}
+	{c, o, o, r}
+	{c, o, o, t}
+	{c, o, o, u}
+	{c, o, r, r}
+	{c, o, r, t}
+	{c, o, r, u}
+	{c, o, t, t}
+	{c, o, t, u}
+	{c, o, u, u}
+	{c, r, r, r}
+	{c, r, r, t}
+	{c, r, r, u}
+	{c, r, t, t}
+	{c, r, t, u}
+	{c, r, u, u}
+	{c, t, t, t}
+	{c, t, t, u}
+	{c, t, u, u}
+	{c, u, u, u}
+	{l, l, l, l}
+	{l, l, l, o}
+	{l, l, l, r}
+	{l, l, l, t}
+	{l, l, l, u}
+	{l, l, o, o}
+	{l, l, o, r}
+	{l, l, o, t}
+	{l, l, o, u}
+	{l, l, r, r}
+	{l, l, r, t}
+	{l, l, r, u}
+	{l, l, t, t}
+	{l, l, t, u}
+	{l, l, u, u}
+	{l, o, o, o}
+	{l, o, o, r}
+	{l, o, o, t}
+	{l, o, o, u}
+	{l, o, r, r}
+	{l, o, r, t}
+	{l, o, r, u}
+	{l, o, t, t}
+	{l, o, t, u}
+	{l, o, u, u}
+	{l, r, r, r}
+	{l, r, r, t}
+	{l, r, r, u}
+	{l, r, t, t}
+	{l, r, t, u}
+	{l, r, u, u}
+	{l, t, t, t}
+	{l, t, t, u}
+	{l, t, u, u}
+	{l, u, u, u}
+	{o, o, o, o}
+	{o, o, o, r}
+	{o, o, o, t}
+	{o, o, o, u}
+	{o, o, r, r}
+	{o, o, r, t}
+	{o, o, r, u}
+	{o, o, t, t}
+	{o, o, t, u}
+	{o, o, u, u}
+	{o, r, r, r}
+	{o, r, r, t}
+	{o, r, r, u}
+	{o, r, t, t}
+	{o, r, t, u}
+	{o, r, u, u}
+	{o, t, t, t}
+	{o, t, t, u}
+	{o, t, u, u}
+	{o, u, u, u}
+	{r, r, r, r}
+	{r, r, r, t}
+	{r, r, r, u}
+	{r, r, t, t}
+	{r, r, t, u}
+	{r, r, u, u}
+	{r, t, t, t}
+	{r, t, t, u}
+	{r, t, u, u}
+	{r, u, u, u}
+	{t, t, t, t}
+	{t, t, t, u}
+	{t, t, u, u}
+	{t, u, u, u}
+	{u, u, u, u}
+}
+
+{
+	{a, a, a, a, a}
+	{a, a, a, a, c}
+	{a, a, a, a, l}
+	{a, a, a, a, o}
+	{a, a, a, a, r}
+	{a, a, a, a, t}
+	{a, a, a, a, u}
+	{a, a, a, c, c}
+	{a, a, a, c, l}
+	{a, a, a, c, o}
+	{a, a, a, c, r}
+	{a, a, a, c, t}
+	{a, a, a, c, u}
+	{a, a, a, l, l}
+	{a, a, a, l, o}
+	{a, a, a, l, r}
+	{a, a, a, l, t}
+	{a, a, a, l, u}
+	{a, a, a, o, o}
+	{a, a, a, o, r}
+	{a, a, a, o, t}
+	{a, a, a, o, u}
+	{a, a, a, r, r}
+	{a, a, a, r, t}
+	{a, a, a, r, u}
+	{a, a, a, t, t}
+	{a, a, a, t, u}
+	{a, a, a, u, u}
+	{a, a, c, c, c}
+	{a, a, c, c, l}
+	{a, a, c, c, o}
+	{a, a, c, c, r}
+	{a, a, c, c, t}
+	{a, a, c, c, u}
+	{a, a, c, l, l}
+	{a, a, c, l, o}
+	{a, a, c, l, r}
+	{a, a, c, l, t}
+	{a, a, c, l, u}
+	{a, a, c, o, o}
+	{a, a, c, o, r}
+	{a, a, c, o, t}
+	{a, a, c, o, u}
+	{a, a, c, r, r}
+	{a, a, c, r, t}
+	{a, a, c, r, u}
+	{a, a, c, t, t}
+	{a, a, c, t, u}
+	{a, a, c, u, u}
+	{a, a, l, l, l}
+	{a, a, l, l, o}
+	{a, a, l, l, r}
+	{a, a, l, l, t}
+	{a, a, l, l, u}
+	{a, a, l, o, o}
+	{a, a, l, o, r}
+	{a, a, l, o, t}
+	{a, a, l, o, u}
+	{a, a, l, r, r}
+	{a, a, l, r, t}
+	{a, a, l, r, u}
+	{a, a, l, t, t}
+	{a, a, l, t, u}
+	{a, a, l, u, u}
+	{a, a, o, o, o}
+	{a, a, o, o, r}
+	{a, a, o, o, t}
+	{a, a, o, o, u}
+	{a, a, o, r, r}
+	{a, a, o, r, t}
+	{a, a, o, r, u}
+	{a, a, o, t, t}
+	{a, a, o, t, u}
+	{a, a, o, u, u}
+	{a, a, r, r, r}
+	{a, a, r, r, t}
+	{a, a, r, r, u}
+	{a, a, r, t, t}
+	{a, a, r, t, u}
+	{a, a, r, u, u}
+	{a, a, t, t, t}
+	{a, a, t, t, u}
+	{a, a, t, u, u}
+	{a, a, u, u, u}
+	{a, c, c, c, c}
+	{a, c, c, c, l}
+	{a, c, c, c, o}
+	{a, c, c, c, r}
+	{a, c, c, c, t}
+	{a, c, c, c, u}
+	{a, c, c, l, l}
+	{a, c, c, l, o}
+	{a, c, c, l, r}
+	{a, c, c, l, t}
+	{a, c, c, l, u}
+	{a, c, c, o, o}
+	{a, c, c, o, r}
+	{a, c, c, o, t}
+	{a, c, c, o, u}
+	{a, c, c, r, r}
+	{a, c, c, r, t}
+	{a, c, c, r, u}
+	{a, c, c, t, t}
+	{a, c, c, t, u}
+	{a, c, c, u, u}
+	{a, c, l, l, l}
+	{a, c, l, l, o}
+	{a, c, l, l, r}
+	{a, c, l, l, t}
+	{a, c, l, l, u}
+	{a, c, l, o, o}
+	{a, c, l, o, r}
+	{a, c, l, o, t}
+	{a, c, l, o, u}
+	{a, c, l, r, r}
+	{a, c, l, r, t}
+	{a, c, l, r, u}
+	{a, c, l, t, t}
+	{a, c, l, t, u}
+	{a, c, l, u, u}
+	{a, c, o, o, o}
+	{a, c, o, o, r}
+	{a, c, o, o, t}
+	{a, c, o, o, u}
+	{a, c, o, r, r}
+	{a, c, o, r, t}
+	{a, c, o, r, u}
+	{a, c, o, t, t}
+	{a, c, o, t, u}
+	{a, c, o, u, u}
+	{a, c, r, r, r}
+	{a, c, r, r, t}
+	{a, c, r, r, u}
+	{a, c, r, t, t}
+	{a, c, r, t, u}
+	{a, c, r, u, u}
+	{a, c, t, t, t}
+	{a, c, t, t, u}
+	{a, c, t, u, u}
+	{a, c, u, u, u}
+	{a, l, l, l, l}
+	{a, l, l, l, o}
+	{a, l, l, l, r}
+	{a, l, l, l, t}
+	{a, l, l, l, u}
+	{a, l, l, o, o}
+	{a, l, l, o, r}
+	{a, l, l, o, t}
+	{a, l, l, o, u}
+	{a, l, l, r, r}
+	{a, l, l, r, t}
+	{a, l, l, r, u}
+	{a, l, l, t, t}
+	{a, l, l, t, u}
+	{a, l, l, u, u}
+	{a, l, o, o, o}
+	{a, l, o, o, r}
+	{a, l, o, o, t}
+	{a, l, o, o, u}
+	{a, l, o, r, r}
+	{a, l, o, r, t}
+	{a, l, o, r, u}
+	{a, l, o, t, t}
+	{a, l, o, t, u}
+	{a, l, o, u, u}
+	{a, l, r, r, r}
+	{a, l, r, r, t}
+	{a, l, r, r, u}
+	{a, l, r, t, t}
+	{a, l, r, t, u}
+	{a, l, r, u, u}
+	{a, l, t, t, t}
+	{a, l, t, t, u}
+	{a, l, t, u, u}
+	{a, l, u, u, u}
+	{a, o, o, o, o}
+	{a, o, o, o, r}
+	{a, o, o, o, t}
+	{a, o, o, o, u}
+	{a, o, o, r, r}
+	{a, o, o, r, t}
+	{a, o, o, r, u}
+	{a, o, o, t, t}
+	{a, o, o, t, u}
+	{a, o, o, u, u}
+	{a, o, r, r, r}
+	{a, o, r, r, t}
+	{a, o, r, r, u}
+	{a, o, r, t, t}
+	{a, o, r, t, u}
+	{a, o, r, u, u}
+	{a, o, t, t, t}
+	{a, o, t, t, u}
+	{a, o, t, u, u}
+	{a, o, u, u, u}
+	{a, r, r, r, r}
+	{a, r, r, r, t}
+	{a, r, r, r, u}
+	{a, r, r, t, t}
+	{a, r, r, t, u}
+	{a, r, r, u, u}
+	{a, r, t, t, t}
+	{a, r, t, t, u}
+	{a, r, t, u, u}
+	{a, r, u, u, u}
+	{a, t, t, t, t}
+	{a, t, t, t, u}
+	{a, t, t, u, u}
+	{a, t, u, u, u}
+	{a, u, u, u, u}
+	{c, c, c, c, c}
+	{c, c, c, c, l}
+	{c, c, c, c, o}
+	{c, c, c, c, r}
+	{c, c, c, c, t}
+	{c, c, c, c, u}
+	{c, c, c, l, l}
+	{c, c, c, l, o}
+	{c, c, c, l, r}
+	{c, c, c, l, t}
+	{c, c, c, l, u}
+	{c, c, c, o, o}
+	{c, c, c, o, r}
+	{c, c, c, o, t}
+	{c, c, c, o, u}
+	{c, c, c, r, r}
+	{c, c, c, r, t}
+	{c, c, c, r, u}
+	{c, c, c, t, t}
+	{c, c, c, t, u}
+	{c, c, c, u, u}
+	{c, c, l, l, l}
+	{c, c, l, l, o}
+	{c, c, l, l, r}
+	{c, c, l, l, t}
+	{c, c, l, l, u}
+	{c, c, l, o, o}
+	{c, c, l, o, r}
+	{c, c, l, o, t}
+	{c, c, l, o, u}
+	{c, c, l, r, r}
+	{c, c, l, r, t}
+	{c, c, l, r, u}
+	{c, c, l, t, t}
+	{c, c, l, t, u}
+	{c, c, l, u, u}
+	{c, c, o, o, o}
+	{c, c, o, o, r}
+	{c, c, o, o, t}
+	{c, c, o, o, u}
+	{c, c, o, r, r}
+	{c, c, o, r, t}
+	{c, c, o, r, u}
+	{c, c, o, t, t}
+	{c, c, o, t, u}
+	{c, c, o, u, u}
+	{c, c, r, r, r}
+	{c, c, r, r, t}
+	{c, c, r, r, u}
+	{c, c, r, t, t}
+	{c, c, r, t, u}
+	{c, c, r, u, u}
+	{c, c, t, t, t}
+	{c, c, t, t, u}
+	{c, c, t, u, u}
+	{c, c, u, u, u}
+	{c, l, l, l, l}
+	{c, l, l, l, o}
+	{c, l, l, l, r}
+	{c, l, l, l, t}
+	{c, l, l, l, u}
+	{c, l, l, o, o}
+	{c, l, l, o, r}
+	{c, l, l, o, t}
+	{c, l, l, o, u}
+	{c, l, l, r, r}
+	{c, l, l, r, t}
+	{c, l, l, r, u}
+	{c, l, l, t, t}
+	{c, l, l, t, u}
+	{c, l, l, u, u}
+	{c, l, o, o, o}
+	{c, l, o, o, r}
+	{c, l, o, o, t}
+	{c, l, o, o, u}
+	{c, l, o, r, r}
+	{c, l, o, r, t}
+	{c, l, o, r, u}
+	{c, l, o, t, t}
+	{c, l, o, t, u}
+	{c, l, o, u, u}
+	{c, l, r, r, r}
+	{c, l, r, r, t}
+	{c, l, r, r, u}
+	{c, l, r, t, t}
+	{c, l, r, t, u}
+	{c, l, r, u, u}
+	{c, l, t, t, t}
+	{c, l, t, t, u}
+	{c, l, t, u, u}
+	{c, l, u, u, u}
+	{c, o, o, o, o}
+	{c, o, o, o, r}
+	{c, o, o, o, t}
+	{c, o, o, o, u}
+	{c, o, o, r, r}
+	{c, o, o, r, t}
+	{c, o, o, r, u}
+	{c, o, o, t, t}
+	{c, o, o, t, u}
+	{c, o, o, u, u}
+	{c, o, r, r, r}
+	{c, o, r, r, t}
+	{c, o, r, r, u}
+	{c, o, r, t, t}
+	{c, o, r, t, u}
+	{c, o, r, u, u}
+	{c, o, t, t, t}
+	{c, o, t, t, u}
+	{c, o, t, u, u}
+	{c, o, u, u, u}
+	{c, r, r, r, r}
+	{c, r, r, r, t}
+	{c, r, r, r, u}
+	{c, r, r, t, t}
+	{c, r, r, t, u}
+	{c, r, r, u, u}
+	{c, r, t, t, t}
+	{c, r, t, t, u}
+	{c, r, t, u, u}
+	{c, r, u, u, u}
+	{c, t, t, t, t}
+	{c, t, t, t, u}
+	{c, t, t, u, u}
+	{c, t, u, u, u}
+	{c, u, u, u, u}
+	{l, l, l, l, l}
+	{l, l, l, l, o}
+	{l, l, l, l, r}
+	{l, l, l, l, t}
+	{l, l, l, l, u}
+	{l, l, l, o, o}
+	{l, l, l, o, r}
+	{l, l, l, o, t}
+	{l, l, l, o, u}
+	{l, l, l, r, r}
+	{l, l, l, r, t}
+	{l, l, l, r, u}
+	{l, l, l, t, t}
+	{l, l, l, t, u}
+	{l, l, l, u, u}
+	{l, l, o, o, o}
+	{l, l, o, o, r}
+	{l, l, o, o, t}
+	{l, l, o, o, u}
+	{l, l, o, r, r}
+	{l, l, o, r, t}
+	{l, l, o, r, u}
+	{l, l, o, t, t}
+	{l, l, o, t, u}
+	{l, l, o, u, u}
+	{l, l, r, r, r}
+	{l, l, r, r, t}
+	{l, l, r, r, u}
+	{l, l, r, t, t}
+	{l, l, r, t, u}
+	{l, l, r, u, u}
+	{l, l, t, t, t}
+	{l, l, t, t, u}
+	{l, l, t, u, u}
+	{l, l, u, u, u}
+	{l, o, o, o, o}
+	{l, o, o, o, r}
+	{l, o, o, o, t}
+	{l, o, o, o, u}
+	{l, o, o, r, r}
+	{l, o, o, r, t}
+	{l, o, o, r, u}
+	{l, o, o, t, t}
+	{l, o, o, t, u}
+	{l, o, o, u, u}
+	{l, o, r, r, r}
+	{l, o, r, r, t}
+	{l, o, r, r, u}
+	{l, o, r, t, t}
+	{l, o, r, t, u}
+	{l, o, r, u, u}
+	{l, o, t, t, t}
+	{l, o, t, t, u}
+	{l, o, t, u, u}
+	{l, o, u, u, u}
+	{l, r, r, r, r}
+	{l, r, r, r, t}
+	{l, r, r, r, u}
+	{l, r, r, t, t}
+	{l, r, r, t, u}
+	{l, r, r, u, u}
+	{l, r, t, t, t}
+	{l, r, t, t, u}
+	{l, r, t, u, u}
+	{l, r, u, u, u}
+	{l, t, t, t, t}
+	{l, t, t, t, u}
+	{l, t, t, u, u}
+	{l, t, u, u, u}
+	{l, u, u, u, u}
+	{o, o, o, o, o}
+	{o, o, o, o, r}
+	{o, o, o, o, t}
+	{o, o, o, o, u}
+	{o, o, o, r, r}
+	{o, o, o, r, t}
+	{o, o, o, r, u}
+	{o, o, o, t, t}
+	{o, o, o, t, u}
+	{o, o, o, u, u}
+	{o, o, r, r, r}
+	{o, o, r, r, t}
+	{o, o, r, r, u}
+	{o, o, r, t, t}
+	{o, o, r, t, u}
+	{o, o, r, u, u}
+	{o, o, t, t, t}
+	{o, o, t, t, u}
+	{o, o, t, u, u}
+	{o, o, u, u, u}
+	{o, r, r, r, r}
+	{o, r, r, r, t}
+	{o, r, r, r, u}
+	{o, r, r, t, t}
+	{o, r, r, t, u}
+	{o, r, r, u, u}
+	{o, r, t, t, t}
+	{o, r, t, t, u}
+	{o, r, t, u, u}
+	{o, r, u, u, u}
+	{o, t, t, t, t}
+	{o, t, t, t, u}
+	{o, t, t, u, u}
+	{o, t, u, u, u}
+	{o, u, u, u, u}
+	{r, r, r, r, r}
+	{r, r, r, r, t}
+	{r, r, r, r, u}
+	{r, r, r, t, t}
+	{r, r, r, t, u}
+	{r, r, r, u, u}
+	{r, r, t, t, t}
+	{r, r, t, t, u}
+	{r, r, t, u, u}
+	{r, r, u, u, u}
+	{r, t, t, t, t}
+	{r, t, t, t, u}
+	{r, t, t, u, u}
+	{r, t, u, u, u}
+	{r, u, u, u, u}
+	{t, t, t, t, t}
+	{t, t, t, t, u}
+	{t, t, t, u, u}
+	{t, t, u, u, u}
+	{t, u, u, u, u}
+	{u, u, u, u, u}
+}
+
+{
+	{a, a, a, a, a, a}
+	{a, a, a, a, a, c}
+	{a, a, a, a, a, l}
+	{a, a, a, a, a, o}
+	{a, a, a, a, a, r}
+	{a, a, a, a, a, t}
+	{a, a, a, a, a, u}
+	{a, a, a, a, c, c}
+	{a, a, a, a, c, l}
+	{a, a, a, a, c, o}
+	{a, a, a, a, c, r}
+	{a, a, a, a, c, t}
+	{a, a, a, a, c, u}
+	{a, a, a, a, l, l}
+	{a, a, a, a, l, o}
+	{a, a, a, a, l, r}
+	{a, a, a, a, l, t}
+	{a, a, a, a, l, u}
+	{a, a, a, a, o, o}
+	{a, a, a, a, o, r}
+	{a, a, a, a, o, t}
+	{a, a, a, a, o, u}
+	{a, a, a, a, r, r}
+	{a, a, a, a, r, t}
+	{a, a, a, a, r, u}
+	{a, a, a, a, t, t}
+	{a, a, a, a, t, u}
+	{a, a, a, a, u, u}
+	{a, a, a, c, c, c}
+	{a, a, a, c, c, l}
+	{a, a, a, c, c, o}
+	{a, a, a, c, c, r}
+	{a, a, a, c, c, t}
+	{a, a, a, c, c, u}
+	{a, a, a, c, l, l}
+	{a, a, a, c, l, o}
+	{a, a, a, c, l, r}
+	{a, a, a, c, l, t}
+	{a, a, a, c, l, u}
+	{a, a, a, c, o, o}
+	{a, a, a, c, o, r}
+	{a, a, a, c, o, t}
+	{a, a, a, c, o, u}
+	{a, a, a, c, r, r}
+	{a, a, a, c, r, t}
+	{a, a, a, c, r, u}
+	{a, a, a, c, t, t}
+	{a, a, a, c, t, u}
+	{a, a, a, c, u, u}
+	{a, a, a, l, l, l}
+	{a, a, a, l, l, o}
+	{a, a, a, l, l, r}
+	{a, a, a, l, l, t}
+	{a, a, a, l, l, u}
+	{a, a, a, l, o, o}
+	{a, a, a, l, o, r}
+	{a, a, a, l, o, t}
+	{a, a, a, l, o, u}
+	{a, a, a, l, r, r}
+	{a, a, a, l, r, t}
+	{a, a, a, l, r, u}
+	{a, a, a, l, t, t}
+	{a, a, a, l, t, u}
+	{a, a, a, l, u, u}
+	{a, a, a, o, o, o}
+	{a, a, a, o, o, r}
+	{a, a, a, o, o, t}
+	{a, a, a, o, o, u}
+	{a, a, a, o, r, r}
+	{a, a, a, o, r, t}
+	{a, a, a, o, r, u}
+	{a, a, a, o, t, t}
+	{a, a, a, o, t, u}
+	{a, a, a, o, u, u}
+	{a, a, a, r, r, r}
+	{a, a, a, r, r, t}
+	{a, a, a, r, r, u}
+	{a, a, a, r, t, t}
+	{a, a, a, r, t, u}
+	{a, a, a, r, u, u}
+	{a, a, a, t, t, t}
+	{a, a, a, t, t, u}
+	{a, a, a, t, u, u}
+	{a, a, a, u, u, u}
+	{a, a, c, c, c, c}
+	{a, a, c, c, c, l}
+	{a, a, c, c, c, o}
+	{a, a, c, c, c, r}
+	{a, a, c, c, c, t}
+	{a, a, c, c, c, u}
+	{a, a, c, c, l, l}
+	{a, a, c, c, l, o}
+	{a, a, c, c, l, r}
+	{a, a, c, c, l, t}
+	{a, a, c, c, l, u}
+	{a, a, c, c, o, o}
+	{a, a, c, c, o, r}
+	{a, a, c, c, o, t}
+	{a, a, c, c, o, u}
+	{a, a, c, c, r, r}
+	{a, a, c, c, r, t}
+	{a, a, c, c, r, u}
+	{a, a, c, c, t, t}
+	{a, a, c, c, t, u}
+	{a, a, c, c, u, u}
+	{a, a, c, l, l, l}
+	{a, a, c, l, l, o}
+	{a, a, c, l, l, r}
+	{a, a, c, l, l, t}
+	{a, a, c, l, l, u}
+	{a, a, c, l, o, o}
+	{a, a, c, l, o, r}
+	{a, a, c, l, o, t}
+	{a, a, c, l, o, u}
+	{a, a, c, l, r, r}
+	{a, a, c, l, r, t}
+	{a, a, c, l, r, u}
+	{a, a, c, l, t, t}
+	{a, a, c, l, t, u}
+	{a, a, c, l, u, u}
+	{a, a, c, o, o, o}
+	{a, a, c, o, o, r}
+	{a, a, c, o, o, t}
+	{a, a, c, o, o, u}
+	{a, a, c, o, r, r}
+	{a, a, c, o, r, t}
+	{a, a, c, o, r, u}
+	{a, a, c, o, t, t}
+	{a, a, c, o, t, u}
+	{a, a, c, o, u, u}
+	{a, a, c, r, r, r}
+	{a, a, c, r, r, t}
+	{a, a, c, r, r, u}
+	{a, a, c, r, t, t}
+	{a, a, c, r, t, u}
+	{a, a, c, r, u, u}
+	{a, a, c, t, t, t}
+	{a, a, c, t, t, u}
+	{a, a, c, t, u, u}
+	{a, a, c, u, u, u}
+	{a, a, l, l, l, l}
+	{a, a, l, l, l, o}
+	{a, a, l, l, l, r}
+	{a, a, l, l, l, t}
+	{a, a, l, l, l, u}
+	{a, a, l, l, o, o}
+	{a, a, l, l, o, r}
+	{a, a, l, l, o, t}
+	{a, a, l, l, o, u}
+	{a, a, l, l, r, r}
+	{a, a, l, l, r, t}
+	{a, a, l, l, r, u}
+	{a, a, l, l, t, t}
+	{a, a, l, l, t, u}
+	{a, a, l, l, u, u}
+	{a, a, l, o, o, o}
+	{a, a, l, o, o, r}
+	{a, a, l, o, o, t}
+	{a, a, l, o, o, u}
+	{a, a, l, o, r, r}
+	{a, a, l, o, r, t}
+	{a, a, l, o, r, u}
+	{a, a, l, o, t, t}
+	{a, a, l, o, t, u}
+	{a, a, l, o, u, u}
+	{a, a, l, r, r, r}
+	{a, a, l, r, r, t}
+	{a, a, l, r, r, u}
+	{a, a, l, r, t, t}
+	{a, a, l, r, t, u}
+	{a, a, l, r, u, u}
+	{a, a, l, t, t, t}
+	{a, a, l, t, t, u}
+	{a, a, l, t, u, u}
+	{a, a, l, u, u, u}
+	{a, a, o, o, o, o}
+	{a, a, o, o, o, r}
+	{a, a, o, o, o, t}
+	{a, a, o, o, o, u}
+	{a, a, o, o, r, r}
+	{a, a, o, o, r, t}
+	{a, a, o, o, r, u}
+	{a, a, o, o, t, t}
+	{a, a, o, o, t, u}
+	{a, a, o, o, u, u}
+	{a, a, o, r, r, r}
+	{a, a, o, r, r, t}
+	{a, a, o, r, r, u}
+	{a, a, o, r, t, t}
+	{a, a, o, r, t, u}
+	{a, a, o, r, u, u}
+	{a, a, o, t, t, t}
+	{a, a, o, t, t, u}
+	{a, a, o, t, u, u}
+	{a, a, o, u, u, u}
+	{a, a, r, r, r, r}
+	{a, a, r, r, r, t}
+	{a, a, r, r, r, u}
+	{a, a, r, r, t, t}
+	{a, a, r, r, t, u}
+	{a, a, r, r, u, u}
+	{a, a, r, t, t, t}
+	{a, a, r, t, t, u}
+	{a, a, r, t, u, u}
+	{a, a, r, u, u, u}
+	{a, a, t, t, t, t}
+	{a, a, t, t, t, u}
+	{a, a, t, t, u, u}
+	{a, a, t, u, u, u}
+	{a, a, u, u, u, u}
+	{a, c, c, c, c, c}
+	{a, c, c, c, c, l}
+	{a, c, c, c, c, o}
+	{a, c, c, c, c, r}
+	{a, c, c, c, c, t}
+	{a, c, c, c, c, u}
+	{a, c, c, c, l, l}
+	{a, c, c, c, l, o}
+	{a, c, c, c, l, r}
+	{a, c, c, c, l, t}
+	{a, c, c, c, l, u}
+	{a, c, c, c, o, o}
+	{a, c, c, c, o, r}
+	{a, c, c, c, o, t}
+	{a, c, c, c, o, u}
+	{a, c, c, c, r, r}
+	{a, c, c, c, r, t}
+	{a, c, c, c, r, u}
+	{a, c, c, c, t, t}
+	{a, c, c, c, t, u}
+	{a, c, c, c, u, u}
+	{a, c, c, l, l, l}
+	{a, c, c, l, l, o}
+	{a, c, c, l, l, r}
+	{a, c, c, l, l, t}
+	{a, c, c, l, l, u}
+	{a, c, c, l, o, o}
+	{a, c, c, l, o, r}
+	{a, c, c, l, o, t}
+	{a, c, c, l, o, u}
+	{a, c, c, l, r, r}
+	{a, c, c, l, r, t}
+	{a, c, c, l, r, u}
+	{a, c, c, l, t, t}
+	{a, c, c, l, t, u}
+	{a, c, c, l, u, u}
+	{a, c, c, o, o, o}
+	{a, c, c, o, o, r}
+	{a, c, c, o, o, t}
+	{a, c, c, o, o, u}
+	{a, c, c, o, r, r}
+	{a, c, c, o, r, t}
+	{a, c, c, o, r, u}
+	{a, c, c, o, t, t}
+	{a, c, c, o, t, u}
+	{a, c, c, o, u, u}
+	{a, c, c, r, r, r}
+	{a, c, c, r, r, t}
+	{a, c, c, r, r, u}
+	{a, c, c, r, t, t}
+	{a, c, c, r, t, u}
+	{a, c, c, r, u, u}
+	{a, c, c, t, t, t}
+	{a, c, c, t, t, u}
+	{a, c, c, t, u, u}
+	{a, c, c, u, u, u}
+	{a, c, l, l, l, l}
+	{a, c, l, l, l, o}
+	{a, c, l, l, l, r}
+	{a, c, l, l, l, t}
+	{a, c, l, l, l, u}
+	{a, c, l, l, o, o}
+	{a, c, l, l, o, r}
+	{a, c, l, l, o, t}
+	{a, c, l, l, o, u}
+	{a, c, l, l, r, r}
+	{a, c, l, l, r, t}
+	{a, c, l, l, r, u}
+	{a, c, l, l, t, t}
+	{a, c, l, l, t, u}
+	{a, c, l, l, u, u}
+	{a, c, l, o, o, o}
+	{a, c, l, o, o, r}
+	{a, c, l, o, o, t}
+	{a, c, l, o, o, u}
+	{a, c, l, o, r, r}
+	{a, c, l, o, r, t}
+	{a, c, l, o, r, u}
+	{a, c, l, o, t, t}
+	{a, c, l, o, t, u}
+	{a, c, l, o, u, u}
+	{a, c, l, r, r, r}
+	{a, c, l, r, r, t}
+	{a, c, l, r, r, u}
+	{a, c, l, r, t, t}
+	{a, c, l, r, t, u}
+	{a, c, l, r, u, u}
+	{a, c, l, t, t, t}
+	{a, c, l, t, t, u}
+	{a, c, l, t, u, u}
+	{a, c, l, u, u, u}
+	{a, c, o, o, o, o}
+	{a, c, o, o, o, r}
+	{a, c, o, o, o, t}
+	{a, c, o, o, o, u}
+	{a, c, o, o, r, r}
+	{a, c, o, o, r, t}
+	{a, c, o, o, r, u}
+	{a, c, o, o, t, t}
+	{a, c, o, o, t, u}
+	{a, c, o, o, u, u}
+	{a, c, o, r, r, r}
+	{a, c, o, r, r, t}
+	{a, c, o, r, r, u}
+	{a, c, o, r, t, t}
+	{a, c, o, r, t, u}
+	{a, c, o, r, u, u}
+	{a, c, o, t, t, t}
+	{a, c, o, t, t, u}
+	{a, c, o, t, u, u}
+	{a, c, o, u, u, u}
+	{a, c, r, r, r, r}
+	{a, c, r, r, r, t}
+	{a, c, r, r, r, u}
+	{a, c, r, r, t, t}
+	{a, c, r, r, t, u}
+	{a, c, r, r, u, u}
+	{a, c, r, t, t, t}
+	{a, c, r, t, t, u}
+	{a, c, r, t, u, u}
+	{a, c, r, u, u, u}
+	{a, c, t, t, t, t}
+	{a, c, t, t, t, u}
+	{a, c, t, t, u, u}
+	{a, c, t, u, u, u}
+	{a, c, u, u, u, u}
+	{a, l, l, l, l, l}
+	{a, l, l, l, l, o}
+	{a, l, l, l, l, r}
+	{a, l, l, l, l, t}
+	{a, l, l, l, l, u}
+	{a, l, l, l, o, o}
+	{a, l, l, l, o, r}
+	{a, l, l, l, o, t}
+	{a, l, l, l, o, u}
+	{a, l, l, l, r, r}
+	{a, l, l, l, r, t}
+	{a, l, l, l, r, u}
+	{a, l, l, l, t, t}
+	{a, l, l, l, t, u}
+	{a, l, l, l, u, u}
+	{a, l, l, o, o, o}
+	{a, l, l, o, o, r}
+	{a, l, l, o, o, t}
+	{a, l, l, o, o, u}
+	{a, l, l, o, r, r}
+	{a, l, l, o, r, t}
+	{a, l, l, o, r, u}
+	{a, l, l, o, t, t}
+	{a, l, l, o, t, u}
+	{a, l, l, o, u, u}
+	{a, l, l, r, r, r}
+	{a, l, l, r, r, t}
+	{a, l, l, r, r, u}
+	{a, l, l, r, t, t}
+	{a, l, l, r, t, u}
+	{a, l, l, r, u, u}
+	{a, l, l, t, t, t}
+	{a, l, l, t, t, u}
+	{a, l, l, t, u, u}
+	{a, l, l, u, u, u}
+	{a, l, o, o, o, o}
+	{a, l, o, o, o, r}
+	{a, l, o, o, o, t}
+	{a, l, o, o, o, u}
+	{a, l, o, o, r, r}
+	{a, l, o, o, r, t}
+	{a, l, o, o, r, u}
+	{a, l, o, o, t, t}
+	{a, l, o, o, t, u}
+	{a, l, o, o, u, u}
+	{a, l, o, r, r, r}
+	{a, l, o, r, r, t}
+	{a, l, o, r, r, u}
+	{a, l, o, r, t, t}
+	{a, l, o, r, t, u}
+	{a, l, o, r, u, u}
+	{a, l, o, t, t, t}
+	{a, l, o, t, t, u}
+	{a, l, o, t, u, u}
+	{a, l, o, u, u, u}
+	{a, l, r, r, r, r}
+	{a, l, r, r, r, t}
+	{a, l, r, r, r, u}
+	{a, l, r, r, t, t}
+	{a, l, r, r, t, u}
+	{a, l, r, r, u, u}
+	{a, l, r, t, t, t}
+	{a, l, r, t, t, u}
+	{a, l, r, t, u, u}
+	{a, l, r, u, u, u}
+	{a, l, t, t, t, t}
+	{a, l, t, t, t, u}
+	{a, l, t, t, u, u}
+	{a, l, t, u, u, u}
+	{a, l, u, u, u, u}
+	{a, o, o, o, o, o}
+	{a, o, o, o, o, r}
+	{a, o, o, o, o, t}
+	{a, o, o, o, o, u}
+	{a, o, o, o, r, r}
+	{a, o, o, o, r, t}
+	{a, o, o, o, r, u}
+	{a, o, o, o, t, t}
+	{a, o, o, o, t, u}
+	{a, o, o, o, u, u}
+	{a, o, o, r, r, r}
+	{a, o, o, r, r, t}
+	{a, o, o, r, r, u}
+	{a, o, o, r, t, t}
+	{a, o, o, r, t, u}
+	{a, o, o, r, u, u}
+	{a, o, o, t, t, t}
+	{a, o, o, t, t, u}
+	{a, o, o, t, u, u}
+	{a, o, o, u, u, u}
+	{a, o, r, r, r, r}
+	{a, o, r, r, r, t}
+	{a, o, r, r, r, u}
+	{a, o, r, r, t, t}
+	{a, o, r, r, t, u}
+	{a, o, r, r, u, u}
+	{a, o, r, t, t, t}
+	{a, o, r, t, t, u}
+	{a, o, r, t, u, u}
+	{a, o, r, u, u, u}
+	{a, o, t, t, t, t}
+	{a, o, t, t, t, u}
+	{a, o, t, t, u, u}
+	{a, o, t, u, u, u}
+	{a, o, u, u, u, u}
+	{a, r, r, r, r, r}
+	{a, r, r, r, r, t}
+	{a, r, r, r, r, u}
+	{a, r, r, r, t, t}
+	{a, r, r, r, t, u}
+	{a, r, r, r, u, u}
+	{a, r, r, t, t, t}
+	{a, r, r, t, t, u}
+	{a, r, r, t, u, u}
+	{a, r, r, u, u, u}
+	{a, r, t, t, t, t}
+	{a, r, t, t, t, u}
+	{a, r, t, t, u, u}
+	{a, r, t, u, u, u}
+	{a, r, u, u, u, u}
+	{a, t, t, t, t, t}
+	{a, t, t, t, t, u}
+	{a, t, t, t, u, u}
+	{a, t, t, u, u, u}
+	{a, t, u, u, u, u}
+	{a, u, u, u, u, u}
+	{c, c, c, c, c, c}
+	{c, c, c, c, c, l}
+	{c, c, c, c, c, o}
+	{c, c, c, c, c, r}
+	{c, c, c, c, c, t}
+	{c, c, c, c, c, u}
+	{c, c, c, c, l, l}
+	{c, c, c, c, l, o}
+	{c, c, c, c, l, r}
+	{c, c, c, c, l, t}
+	{c, c, c, c, l, u}
+	{c, c, c, c, o, o}
+	{c, c, c, c, o, r}
+	{c, c, c, c, o, t}
+	{c, c, c, c, o, u}
+	{c, c, c, c, r, r}
+	{c, c, c, c, r, t}
+	{c, c, c, c, r, u}
+	{c, c, c, c, t, t}
+	{c, c, c, c, t, u}
+	{c, c, c, c, u, u}
+	{c, c, c, l, l, l}
+	{c, c, c, l, l, o}
+	{c, c, c, l, l, r}
+	{c, c, c, l, l, t}
+	{c, c, c, l, l, u}
+	{c, c, c, l, o, o}
+	{c, c, c, l, o, r}
+	{c, c, c, l, o, t}
+	{c, c, c, l, o, u}
+	{c, c, c, l, r, r}
+	{c, c, c, l, r, t}
+	{c, c, c, l, r, u}
+	{c, c, c, l, t, t}
+	{c, c, c, l, t, u}
+	{c, c, c, l, u, u}
+	{c, c, c, o, o, o}
+	{c, c, c, o, o, r}
+	{c, c, c, o, o, t}
+	{c, c, c, o, o, u}
+	{c, c, c, o, r, r}
+	{c, c, c, o, r, t}
+	{c, c, c, o, r, u}
+	{c, c, c, o, t, t}
+	{c, c, c, o, t, u}
+	{c, c, c, o, u, u}
+	{c, c, c, r, r, r}
+	{c, c, c, r, r, t}
+	{c, c, c, r, r, u}
+	{c, c, c, r, t, t}
+	{c, c, c, r, t, u}
+	{c, c, c, r, u, u}
+	{c, c, c, t, t, t}
+	{c, c, c, t, t, u}
+	{c, c, c, t, u, u}
+	{c, c, c, u, u, u}
+	{c, c, l, l, l, l}
+	{c, c, l, l, l, o}
+	{c, c, l, l, l, r}
+	{c, c, l, l, l, t}
+	{c, c, l, l, l, u}
+	{c, c, l, l, o, o}
+	{c, c, l, l, o, r}
+	{c, c, l, l, o, t}
+	{c, c, l, l, o, u}
+	{c, c, l, l, r, r}
+	{c, c, l, l, r, t}
+	{c, c, l, l, r, u}
+	{c, c, l, l, t, t}
+	{c, c, l, l, t, u}
+	{c, c, l, l, u, u}
+	{c, c, l, o, o, o}
+	{c, c, l, o, o, r}
+	{c, c, l, o, o, t}
+	{c, c, l, o, o, u}
+	{c, c, l, o, r, r}
+	{c, c, l, o, r, t}
+	{c, c, l, o, r, u}
+	{c, c, l, o, t, t}
+	{c, c, l, o, t, u}
+	{c, c, l, o, u, u}
+	{c, c, l, r, r, r}
+	{c, c, l, r, r, t}
+	{c, c, l, r, r, u}
+	{c, c, l, r, t, t}
+	{c, c, l, r, t, u}
+	{c, c, l, r, u, u}
+	{c, c, l, t, t, t}
+	{c, c, l, t, t, u}
+	{c, c, l, t, u, u}
+	{c, c, l, u, u, u}
+	{c, c, o, o, o, o}
+	{c, c, o, o, o, r}
+	{c, c, o, o, o, t}
+	{c, c, o, o, o, u}
+	{c, c, o, o, r, r}
+	{c, c, o, o, r, t}
+	{c, c, o, o, r, u}
+	{c, c, o, o, t, t}
+	{c, c, o, o, t, u}
+	{c, c, o, o, u, u}
+	{c, c, o, r, r, r}
+	{c, c, o, r, r, t}
+	{c, c, o, r, r, u}
+	{c, c, o, r, t, t}
+	{c, c, o, r, t, u}
+	{c, c, o, r, u, u}
+	{c, c, o, t, t, t}
+	{c, c, o, t, t, u}
+	{c, c, o, t, u, u}
+	{c, c, o, u, u, u}
+	{c, c, r, r, r, r}
+	{c, c, r, r, r, t}
+	{c, c, r, r, r, u}
+	{c, c, r, r, t, t}
+	{c, c, r, r, t, u}
+	{c, c, r, r, u, u}
+	{c, c, r, t, t, t}
+	{c, c, r, t, t, u}
+	{c, c, r, t, u, u}
+	{c, c, r, u, u, u}
+	{c, c, t, t, t, t}
+	{c, c, t, t, t, u}
+	{c, c, t, t, u, u}
+	{c, c, t, u, u, u}
+	{c, c, u, u, u, u}
+	{c, l, l, l, l, l}
+	{c, l, l, l, l, o}
+	{c, l, l, l, l, r}
+	{c, l, l, l, l, t}
+	{c, l, l, l, l, u}
+	{c, l, l, l, o, o}
+	{c, l, l, l, o, r}
+	{c, l, l, l, o, t}
+	{c, l, l, l, o, u}
+	{c, l, l, l, r, r}
+	{c, l, l, l, r, t}
+	{c, l, l, l, r, u}
+	{c, l, l, l, t, t}
+	{c, l, l, l, t, u}
+	{c, l, l, l, u, u}
+	{c, l, l, o, o, o}
+	{c, l, l, o, o, r}
+	{c, l, l, o, o, t}
+	{c, l, l, o, o, u}
+	{c, l, l, o, r, r}
+	{c, l, l, o, r, t}
+	{c, l, l, o, r, u}
+	{c, l, l, o, t, t}
+	{c, l, l, o, t, u}
+	{c, l, l, o, u, u}
+	{c, l, l, r, r, r}
+	{c, l, l, r, r, t}
+	{c, l, l, r, r, u}
+	{c, l, l, r, t, t}
+	{c, l, l, r, t, u}
+	{c, l, l, r, u, u}
+	{c, l, l, t, t, t}
+	{c, l, l, t, t, u}
+	{c, l, l, t, u, u}
+	{c, l, l, u, u, u}
+	{c, l, o, o, o, o}
+	{c, l, o, o, o, r}
+	{c, l, o, o, o, t}
+	{c, l, o, o, o, u}
+	{c, l, o, o, r, r}
+	{c, l, o, o, r, t}
+	{c, l, o, o, r, u}
+	{c, l, o, o, t, t}
+	{c, l, o, o, t, u}
+	{c, l, o, o, u, u}
+	{c, l, o, r, r, r}
+	{c, l, o, r, r, t}
+	{c, l, o, r, r, u}
+	{c, l, o, r, t, t}
+	{c, l, o, r, t, u}
+	{c, l, o, r, u, u}
+	{c, l, o, t, t, t}
+	{c, l, o, t, t, u}
+	{c, l, o, t, u, u}
+	{c, l, o, u, u, u}
+	{c, l, r, r, r, r}
+	{c, l, r, r, r, t}
+	{c, l, r, r, r, u}
+	{c, l, r, r, t, t}
+	{c, l, r, r, t, u}
+	{c, l, r, r, u, u}
+	{c, l, r, t, t, t}
+	{c, l, r, t, t, u}
+	{c, l, r, t, u, u}
+	{c, l, r, u, u, u}
+	{c, l, t, t, t, t}
+	{c, l, t, t, t, u}
+	{c, l, t, t, u, u}
+	{c, l, t, u, u, u}
+	{c, l, u, u, u, u}
+	{c, o, o, o, o, o}
+	{c, o, o, o, o, r}
+	{c, o, o, o, o, t}
+	{c, o, o, o, o, u}
+	{c, o, o, o, r, r}
+	{c, o, o, o, r, t}
+	{c, o, o, o, r, u}
+	{c, o, o, o, t, t}
+	{c, o, o, o, t, u}
+	{c, o, o, o, u, u}
+	{c, o, o, r, r, r}
+	{c, o, o, r, r, t}
+	{c, o, o, r, r, u}
+	{c, o, o, r, t, t}
+	{c, o, o, r, t, u}
+	{c, o, o, r, u, u}
+	{c, o, o, t, t, t}
+	{c, o, o, t, t, u}
+	{c, o, o, t, u, u}
+	{c, o, o, u, u, u}
+	{c, o, r, r, r, r}
+	{c, o, r, r, r, t}
+	{c, o, r, r, r, u}
+	{c, o, r, r, t, t}
+	{c, o, r, r, t, u}
+	{c, o, r, r, u, u}
+	{c, o, r, t, t, t}
+	{c, o, r, t, t, u}
+	{c, o, r, t, u, u}
+	{c, o, r, u, u, u}
+	{c, o, t, t, t, t}
+	{c, o, t, t, t, u}
+	{c, o, t, t, u, u}
+	{c, o, t, u, u, u}
+	{c, o, u, u, u, u}
+	{c, r, r, r, r, r}
+	{c, r, r, r, r, t}
+	{c, r, r, r, r, u}
+	{c, r, r, r, t, t}
+	{c, r, r, r, t, u}
+	{c, r, r, r, u, u}
+	{c, r, r, t, t, t}
+	{c, r, r, t, t, u}
+	{c, r, r, t, u, u}
+	{c, r, r, u, u, u}
+	{c, r, t, t, t, t}
+	{c, r, t, t, t, u}
+	{c, r, t, t, u, u}
+	{c, r, t, u, u, u}
+	{c, r, u, u, u, u}
+	{c, t, t, t, t, t}
+	{c, t, t, t, t, u}
+	{c, t, t, t, u, u}
+	{c, t, t, u, u, u}
+	{c, t, u, u, u, u}
+	{c, u, u, u, u, u}
+	{l, l, l, l, l, l}
+	{l, l, l, l, l, o}
+	{l, l, l, l, l, r}
+	{l, l, l, l, l, t}
+	{l, l, l, l, l, u}
+	{l, l, l, l, o, o}
+	{l, l, l, l, o, r}
+	{l, l, l, l, o, t}
+	{l, l, l, l, o, u}
+	{l, l, l, l, r, r}
+	{l, l, l, l, r, t}
+	{l, l, l, l, r, u}
+	{l, l, l, l, t, t}
+	{l, l, l, l, t, u}
+	{l, l, l, l, u, u}
+	{l, l, l, o, o, o}
+	{l, l, l, o, o, r}
+	{l, l, l, o, o, t}
+	{l, l, l, o, o, u}
+	{l, l, l, o, r, r}
+	{l, l, l, o, r, t}
+	{l, l, l, o, r, u}
+	{l, l, l, o, t, t}
+	{l, l, l, o, t, u}
+	{l, l, l, o, u, u}
+	{l, l, l, r, r, r}
+	{l, l, l, r, r, t}
+	{l, l, l, r, r, u}
+	{l, l, l, r, t, t}
+	{l, l, l, r, t, u}
+	{l, l, l, r, u, u}
+	{l, l, l, t, t, t}
+	{l, l, l, t, t, u}
+	{l, l, l, t, u, u}
+	{l, l, l, u, u, u}
+	{l, l, o, o, o, o}
+	{l, l, o, o, o, r}
+	{l, l, o, o, o, t}
+	{l, l, o, o, o, u}
+	{l, l, o, o, r, r}
+	{l, l, o, o, r, t}
+	{l, l, o, o, r, u}
+	{l, l, o, o, t, t}
+	{l, l, o, o, t, u}
+	{l, l, o, o, u, u}
+	{l, l, o, r, r, r}
+	{l, l, o, r, r, t}
+	{l, l, o, r, r, u}
+	{l, l, o, r, t, t}
+	{l, l, o, r, t, u}
+	{l, l, o, r, u, u}
+	{l, l, o, t, t, t}
+	{l, l, o, t, t, u}
+	{l, l, o, t, u, u}
+	{l, l, o, u, u, u}
+	{l, l, r, r, r, r}
+	{l, l, r, r, r, t}
+	{l, l, r, r, r, u}
+	{l, l, r, r, t, t}
+	{l, l, r, r, t, u}
+	{l, l, r, r, u, u}
+	{l, l, r, t, t, t}
+	{l, l, r, t, t, u}
+	{l, l, r, t, u, u}
+	{l, l, r, u, u, u}
+	{l, l, t, t, t, t}
+	{l, l, t, t, t, u}
+	{l, l, t, t, u, u}
+	{l, l, t, u, u, u}
+	{l, l, u, u, u, u}
+	{l, o, o, o, o, o}
+	{l, o, o, o, o, r}
+	{l, o, o, o, o, t}
+	{l, o, o, o, o, u}
+	{l, o, o, o, r, r}
+	{l, o, o, o, r, t}
+	{l, o, o, o, r, u}
+	{l, o, o, o, t, t}
+	{l, o, o, o, t, u}
+	{l, o, o, o, u, u}
+	{l, o, o, r, r, r}
+	{l, o, o, r, r, t}
+	{l, o, o, r, r, u}
+	{l, o, o, r, t, t}
+	{l, o, o, r, t, u}
+	{l, o, o, r, u, u}
+	{l, o, o, t, t, t}
+	{l, o, o, t, t, u}
+	{l, o, o, t, u, u}
+	{l, o, o, u, u, u}
+	{l, o, r, r, r, r}
+	{l, o, r, r, r, t}
+	{l, o, r, r, r, u}
+	{l, o, r, r, t, t}
+	{l, o, r, r, t, u}
+	{l, o, r, r, u, u}
+	{l, o, r, t, t, t}
+	{l, o, r, t, t, u}
+	{l, o, r, t, u, u}
+	{l, o, r, u, u, u}
+	{l, o, t, t, t, t}
+	{l, o, t, t, t, u}
+	{l, o, t, t, u, u}
+	{l, o, t, u, u, u}
+	{l, o, u, u, u, u}
+	{l, r, r, r, r, r}
+	{l, r, r, r, r, t}
+	{l, r, r, r, r, u}
+	{l, r, r, r, t, t}
+	{l, r, r, r, t, u}
+	{l, r, r, r, u, u}
+	{l, r, r, t, t, t}
+	{l, r, r, t, t, u}
+	{l, r, r, t, u, u}
+	{l, r, r, u, u, u}
+	{l, r, t, t, t, t}
+	{l, r, t, t, t, u}
+	{l, r, t, t, u, u}
+	{l, r, t, u, u, u}
+	{l, r, u, u, u, u}
+	{l, t, t, t, t, t}
+	{l, t, t, t, t, u}
+	{l, t, t, t, u, u}
+	{l, t, t, u, u, u}
+	{l, t, u, u, u, u}
+	{l, u, u, u, u, u}
+	{o, o, o, o, o, o}
+	{o, o, o, o, o, r}
+	{o, o, o, o, o, t}
+	{o, o, o, o, o, u}
+	{o, o, o, o, r, r}
+	{o, o, o, o, r, t}
+	{o, o, o, o, r, u}
+	{o, o, o, o, t, t}
+	{o, o, o, o, t, u}
+	{o, o, o, o, u, u}
+	{o, o, o, r, r, r}
+	{o, o, o, r, r, t}
+	{o, o, o, r, r, u}
+	{o, o, o, r, t, t}
+	{o, o, o, r, t, u}
+	{o, o, o, r, u, u}
+	{o, o, o, t, t, t}
+	{o, o, o, t, t, u}
+	{o, o, o, t, u, u}
+	{o, o, o, u, u, u}
+	{o, o, r, r, r, r}
+	{o, o, r, r, r, t}
+	{o, o, r, r, r, u}
+	{o, o, r, r, t, t}
+	{o, o, r, r, t, u}
+	{o, o, r, r, u, u}
+	{o, o, r, t, t, t}
+	{o, o, r, t, t, u}
+	{o, o, r, t, u, u}
+	{o, o, r, u, u, u}
+	{o, o, t, t, t, t}
+	{o, o, t, t, t, u}
+	{o, o, t, t, u, u}
+	{o, o, t, u, u, u}
+	{o, o, u, u, u, u}
+	{o, r, r, r, r, r}
+	{o, r, r, r, r, t}
+	{o, r, r, r, r, u}
+	{o, r, r, r, t, t}
+	{o, r, r, r, t, u}
+	{o, r, r, r, u, u}
+	{o, r, r, t, t, t}
+	{o, r, r, t, t, u}
+	{o, r, r, t, u, u}
+	{o, r, r, u, u, u}
+	{o, r, t, t, t, t}
+	{o, r, t, t, t, u}
+	{o, r, t, t, u, u}
+	{o, r, t, u, u, u}
+	{o, r, u, u, u, u}
+	{o, t, t, t, t, t}
+	{o, t, t, t, t, u}
+	{o, t, t, t, u, u}
+	{o, t, t, u, u, u}
+	{o, t, u, u, u, u}
+	{o, u, u, u, u, u}
+	{r, r, r, r, r, r}
+	{r, r, r, r, r, t}
+	{r, r, r, r, r, u}
+	{r, r, r, r, t, t}
+	{r, r, r, r, t, u}
+	{r, r, r, r, u, u}
+	{r, r, r, t, t, t}
+	{r, r, r, t, t, u}
+	{r, r, r, t, u, u}
+	{r, r, r, u, u, u}
+	{r, r, t, t, t, t}
+	{r, r, t, t, t, u}
+	{r, r, t, t, u, u}
+	{r, r, t, u, u, u}
+	{r, r, u, u, u, u}
+	{r, t, t, t, t, t}
+	{r, t, t, t, t, u}
+	{r, t, t, t, u, u}
+	{r, t, t, u, u, u}
+	{r, t, u, u, u, u}
+	{r, u, u, u, u, u}
+	{t, t, t, t, t, t}
+	{t, t, t, t, t, u}
+	{t, t, t, t, u, u}
+	{t, t, t, u, u, u}
+	{t, t, u, u, u, u}
+	{t, u, u, u, u, u}
+	{u, u, u, u, u, u}
+}
+
+{
+	{a, a, a, a, a, a, a}
+	{a, a, a, a, a, a, c}
+	{a, a, a, a, a, a, l}
+	{a, a, a, a, a, a, o}
+	{a, a, a, a, a, a, r}
+	{a, a, a, a, a, a, t}
+	{a, a, a, a, a, a, u}
+	{a, a, a, a, a, c, c}
+	{a, a, a, a, a, c, l}
+	{a, a, a, a, a, c, o}
+	{a, a, a, a, a, c, r}
+	{a, a, a, a, a, c, t}
+	{a, a, a, a, a, c, u}
+	{a, a, a, a, a, l, l}
+	{a, a, a, a, a, l, o}
+	{a, a, a, a, a, l, r}
+	{a, a, a, a, a, l, t}
+	{a, a, a, a, a, l, u}
+	{a, a, a, a, a, o, o}
+	{a, a, a, a, a, o, r}
+	{a, a, a, a, a, o, t}
+	{a, a, a, a, a, o, u}
+	{a, a, a, a, a, r, r}
+	{a, a, a, a, a, r, t}
+	{a, a, a, a, a, r, u}
+	{a, a, a, a, a, t, t}
+	{a, a, a, a, a, t, u}
+	{a, a, a, a, a, u, u}
+	{a, a, a, a, c, c, c}
+	{a, a, a, a, c, c, l}
+	{a, a, a, a, c, c, o}
+	{a, a, a, a, c, c, r}
+	{a, a, a, a, c, c, t}
+	{a, a, a, a, c, c, u}
+	{a, a, a, a, c, l, l}
+	{a, a, a, a, c, l, o}
+	{a, a, a, a, c, l, r}
+	{a, a, a, a, c, l, t}
+	{a, a, a, a, c, l, u}
+	{a, a, a, a, c, o, o}
+	{a, a, a, a, c, o, r}
+	{a, a, a, a, c, o, t}
+	{a, a, a, a, c, o, u}
+	{a, a, a, a, c, r, r}
+	{a, a, a, a, c, r, t}
+	{a, a, a, a, c, r, u}
+	{a, a, a, a, c, t, t}
+	{a, a, a, a, c, t, u}
+	{a, a, a, a, c, u, u}
+	{a, a, a, a, l, l, l}
+	{a, a, a, a, l, l, o}
+	{a, a, a, a, l, l, r}
+	{a, a, a, a, l, l, t}
+	{a, a, a, a, l, l, u}
+	{a, a, a, a, l, o, o}
+	{a, a, a, a, l, o, r}
+	{a, a, a, a, l, o, t}
+	{a, a, a, a, l, o, u}
+	{a, a, a, a, l, r, r}
+	{a, a, a, a, l, r, t}
+	{a, a, a, a, l, r, u}
+	{a, a, a, a, l, t, t}
+	{a, a, a, a, l, t, u}
+	{a, a, a, a, l, u, u}
+	{a, a, a, a, o, o, o}
+	{a, a, a, a, o, o, r}
+	{a, a, a, a, o, o, t}
+	{a, a, a, a, o, o, u}
+	{a, a, a, a, o, r, r}
+	{a, a, a, a, o, r, t}
+	{a, a, a, a, o, r, u}
+	{a, a, a, a, o, t, t}
+	{a, a, a, a, o, t, u}
+	{a, a, a, a, o, u, u}
+	{a, a, a, a, r, r, r}
+	{a, a, a, a, r, r, t}
+	{a, a, a, a, r, r, u}
+	{a, a, a, a, r, t, t}
+	{a, a, a, a, r, t, u}
+	{a, a, a, a, r, u, u}
+	{a, a, a, a, t, t, t}
+	{a, a, a, a, t, t, u}
+	{a, a, a, a, t, u, u}
+	{a, a, a, a, u, u, u}
+	{a, a, a, c, c, c, c}
+	{a, a, a, c, c, c, l}
+	{a, a, a, c, c, c, o}
+	{a, a, a, c, c, c, r}
+	{a, a, a, c, c, c, t}
+	{a, a, a, c, c, c, u}
+	{a, a, a, c, c, l, l}
+	{a, a, a, c, c, l, o}
+	{a, a, a, c, c, l, r}
+	{a, a, a, c, c, l, t}
+	{a, a, a, c, c, l, u}
+	{a, a, a, c, c, o, o}
+	{a, a, a, c, c, o, r}
+	{a, a, a, c, c, o, t}
+	{a, a, a, c, c, o, u}
+	{a, a, a, c, c, r, r}
+	{a, a, a, c, c, r, t}
+	{a, a, a, c, c, r, u}
+	{a, a, a, c, c, t, t}
+	{a, a, a, c, c, t, u}
+	{a, a, a, c, c, u, u}
+	{a, a, a, c, l, l, l}
+	{a, a, a, c, l, l, o}
+	{a, a, a, c, l, l, r}
+	{a, a, a, c, l, l, t}
+	{a, a, a, c, l, l, u}
+	{a, a, a, c, l, o, o}
+	{a, a, a, c, l, o, r}
+	{a, a, a, c, l, o, t}
+	{a, a, a, c, l, o, u}
+	{a, a, a, c, l, r, r}
+	{a, a, a, c, l, r, t}
+	{a, a, a, c, l, r, u}
+	{a, a, a, c, l, t, t}
+	{a, a, a, c, l, t, u}
+	{a, a, a, c, l, u, u}
+	{a, a, a, c, o, o, o}
+	{a, a, a, c, o, o, r}
+	{a, a, a, c, o, o, t}
+	{a, a, a, c, o, o, u}
+	{a, a, a, c, o, r, r}
+	{a, a, a, c, o, r, t}
+	{a, a, a, c, o, r, u}
+	{a, a, a, c, o, t, t}
+	{a, a, a, c, o, t, u}
+	{a, a, a, c, o, u, u}
+	{a, a, a, c, r, r, r}
+	{a, a, a, c, r, r, t}
+	{a, a, a, c, r, r, u}
+	{a, a, a, c, r, t, t}
+	{a, a, a, c, r, t, u}
+	{a, a, a, c, r, u, u}
+	{a, a, a, c, t, t, t}
+	{a, a, a, c, t, t, u}
+	{a, a, a, c, t, u, u}
+	{a, a, a, c, u, u, u}
+	{a, a, a, l, l, l, l}
+	{a, a, a, l, l, l, o}
+	{a, a, a, l, l, l, r}
+	{a, a, a, l, l, l, t}
+	{a, a, a, l, l, l, u}
+	{a, a, a, l, l, o, o}
+	{a, a, a, l, l, o, r}
+	{a, a, a, l, l, o, t}
+	{a, a, a, l, l, o, u}
+	{a, a, a, l, l, r, r}
+	{a, a, a, l, l, r, t}
+	{a, a, a, l, l, r, u}
+	{a, a, a, l, l, t, t}
+	{a, a, a, l, l, t, u}
+	{a, a, a, l, l, u, u}
+	{a, a, a, l, o, o, o}
+	{a, a, a, l, o, o, r}
+	{a, a, a, l, o, o, t}
+	{a, a, a, l, o, o, u}
+	{a, a, a, l, o, r, r}
+	{a, a, a, l, o, r, t}
+	{a, a, a, l, o, r, u}
+	{a, a, a, l, o, t, t}
+	{a, a, a, l, o, t, u}
+	{a, a, a, l, o, u, u}
+	{a, a, a, l, r, r, r}
+	{a, a, a, l, r, r, t}
+	{a, a, a, l, r, r, u}
+	{a, a, a, l, r, t, t}
+	{a, a, a, l, r, t, u}
+	{a, a, a, l, r, u, u}
+	{a, a, a, l, t, t, t}
+	{a, a, a, l, t, t, u}
+	{a, a, a, l, t, u, u}
+	{a, a, a, l, u, u, u}
+	{a, a, a, o, o, o, o}
+	{a, a, a, o, o, o, r}
+	{a, a, a, o, o, o, t}
+	{a, a, a, o, o, o, u}
+	{a, a, a, o, o, r, r}
+	{a, a, a, o, o, r, t}
+	{a, a, a, o, o, r, u}
+	{a, a, a, o, o, t, t}
+	{a, a, a, o, o, t, u}
+	{a, a, a, o, o, u, u}
+	{a, a, a, o, r, r, r}
+	{a, a, a, o, r, r, t}
+	{a, a, a, o, r, r, u}
+	{a, a, a, o, r, t, t}
+	{a, a, a, o, r, t, u}
+	{a, a, a, o, r, u, u}
+	{a, a, a, o, t, t, t}
+	{a, a, a, o, t, t, u}
+	{a, a, a, o, t, u, u}
+	{a, a, a, o, u, u, u}
+	{a, a, a, r, r, r, r}
+	{a, a, a, r, r, r, t}
+	{a, a, a, r, r, r, u}
+	{a, a, a, r, r, t, t}
+	{a, a, a, r, r, t, u}
+	{a, a, a, r, r, u, u}
+	{a, a, a, r, t, t, t}
+	{a, a, a, r, t, t, u}
+	{a, a, a, r, t, u, u}
+	{a, a, a, r, u, u, u}
+	{a, a, a, t, t, t, t}
+	{a, a, a, t, t, t, u}
+	{a, a, a, t, t, u, u}
+	{a, a, a, t, u, u, u}
+	{a, a, a, u, u, u, u}
+	{a, a, c, c, c, c, c}
+	{a, a, c, c, c, c, l}
+	{a, a, c, c, c, c, o}
+	{a, a, c, c, c, c, r}
+	{a, a, c, c, c, c, t}
+	{a, a, c, c, c, c, u}
+	{a, a, c, c, c, l, l}
+	{a, a, c, c, c, l, o}
+	{a, a, c, c, c, l, r}
+	{a, a, c, c, c, l, t}
+	{a, a, c, c, c, l, u}
+	{a, a, c, c, c, o, o}
+	{a, a, c, c, c, o, r}
+	{a, a, c, c, c, o, t}
+	{a, a, c, c, c, o, u}
+	{a, a, c, c, c, r, r}
+	{a, a, c, c, c, r, t}
+	{a, a, c, c, c, r, u}
+	{a, a, c, c, c, t, t}
+	{a, a, c, c, c, t, u}
+	{a, a, c, c, c, u, u}
+	{a, a, c, c, l, l, l}
+	{a, a, c, c, l, l, o}
+	{a, a, c, c, l, l, r}
+	{a, a, c, c, l, l, t}
+	{a, a, c, c, l, l, u}
+	{a, a, c, c, l, o, o}
+	{a, a, c, c, l, o, r}
+	{a, a, c, c, l, o, t}
+	{a, a, c, c, l, o, u}
+	{a, a, c, c, l, r, r}
+	{a, a, c, c, l, r, t}
+	{a, a, c, c, l, r, u}
+	{a, a, c, c, l, t, t}
+	{a, a, c, c, l, t, u}
+	{a, a, c, c, l, u, u}
+	{a, a, c, c, o, o, o}
+	{a, a, c, c, o, o, r}
+	{a, a, c, c, o, o, t}
+	{a, a, c, c, o, o, u}
+	{a, a, c, c, o, r, r}
+	{a, a, c, c, o, r, t}
+	{a, a, c, c, o, r, u}
+	{a, a, c, c, o, t, t}
+	{a, a, c, c, o, t, u}
+	{a, a, c, c, o, u, u}
+	{a, a, c, c, r, r, r}
+	{a, a, c, c, r, r, t}
+	{a, a, c, c, r, r, u}
+	{a, a, c, c, r, t, t}
+	{a, a, c, c, r, t, u}
+	{a, a, c, c, r, u, u}
+	{a, a, c, c, t, t, t}
+	{a, a, c, c, t, t, u}
+	{a, a, c, c, t, u, u}
+	{a, a, c, c, u, u, u}
+	{a, a, c, l, l, l, l}
+	{a, a, c, l, l, l, o}
+	{a, a, c, l, l, l, r}
+	{a, a, c, l, l, l, t}
+	{a, a, c, l, l, l, u}
+	{a, a, c, l, l, o, o}
+	{a, a, c, l, l, o, r}
+	{a, a, c, l, l, o, t}
+	{a, a, c, l, l, o, u}
+	{a, a, c, l, l, r, r}
+	{a, a, c, l, l, r, t}
+	{a, a, c, l, l, r, u}
+	{a, a, c, l, l, t, t}
+	{a, a, c, l, l, t, u}
+	{a, a, c, l, l, u, u}
+	{a, a, c, l, o, o, o}
+	{a, a, c, l, o, o, r}
+	{a, a, c, l, o, o, t}
+	{a, a, c, l, o, o, u}
+	{a, a, c, l, o, r, r}
+	{a, a, c, l, o, r, t}
+	{a, a, c, l, o, r, u}
+	{a, a, c, l, o, t, t}
+	{a, a, c, l, o, t, u}
+	{a, a, c, l, o, u, u}
+	{a, a, c, l, r, r, r}
+	{a, a, c, l, r, r, t}
+	{a, a, c, l, r, r, u}
+	{a, a, c, l, r, t, t}
+	{a, a, c, l, r, t, u}
+	{a, a, c, l, r, u, u}
+	{a, a, c, l, t, t, t}
+	{a, a, c, l, t, t, u}
+	{a, a, c, l, t, u, u}
+	{a, a, c, l, u, u, u}
+	{a, a, c, o, o, o, o}
+	{a, a, c, o, o, o, r}
+	{a, a, c, o, o, o, t}
+	{a, a, c, o, o, o, u}
+	{a, a, c, o, o, r, r}
+	{a, a, c, o, o, r, t}
+	{a, a, c, o, o, r, u}
+	{a, a, c, o, o, t, t}
+	{a, a, c, o, o, t, u}
+	{a, a, c, o, o, u, u}
+	{a, a, c, o, r, r, r}
+	{a, a, c, o, r, r, t}
+	{a, a, c, o, r, r, u}
+	{a, a, c, o, r, t, t}
+	{a, a, c, o, r, t, u}
+	{a, a, c, o, r, u, u}
+	{a, a, c, o, t, t, t}
+	{a, a, c, o, t, t, u}
+	{a, a, c, o, t, u, u}
+	{a, a, c, o, u, u, u}
+	{a, a, c, r, r, r, r}
+	{a, a, c, r, r, r, t}
+	{a, a, c, r, r, r, u}
+	{a, a, c, r, r, t, t}
+	{a, a, c, r, r, t, u}
+	{a, a, c, r, r, u, u}
+	{a, a, c, r, t, t, t}
+	{a, a, c, r, t, t, u}
+	{a, a, c, r, t, u, u}
+	{a, a, c, r, u, u, u}
+	{a, a, c, t, t, t, t}
+	{a, a, c, t, t, t, u}
+	{a, a, c, t, t, u, u}
+	{a, a, c, t, u, u, u}
+	{a, a, c, u, u, u, u}
+	{a, a, l, l, l, l, l}
+	{a, a, l, l, l, l, o}
+	{a, a, l, l, l, l, r}
+	{a, a, l, l, l, l, t}
+	{a, a, l, l, l, l, u}
+	{a, a, l, l, l, o, o}
+	{a, a, l, l, l, o, r}
+	{a, a, l, l, l, o, t}
+	{a, a, l, l, l, o, u}
+	{a, a, l, l, l, r, r}
+	{a, a, l, l, l, r, t}
+	{a, a, l, l, l, r, u}
+	{a, a, l, l, l, t, t}
+	{a, a, l, l, l, t, u}
+	{a, a, l, l, l, u, u}
+	{a, a, l, l, o, o, o}
+	{a, a, l, l, o, o, r}
+	{a, a, l, l, o, o, t}
+	{a, a, l, l, o, o, u}
+	{a, a, l, l, o, r, r}
+	{a, a, l, l, o, r, t}
+	{a, a, l, l, o, r, u}
+	{a, a, l, l, o, t, t}
+	{a, a, l, l, o, t, u}
+	{a, a, l, l, o, u, u}
+	{a, a, l, l, r, r, r}
+	{a, a, l, l, r, r, t}
+	{a, a, l, l, r, r, u}
+	{a, a, l, l, r, t, t}
+	{a, a, l, l, r, t, u}
+	{a, a, l, l, r, u, u}
+	{a, a, l, l, t, t, t}
+	{a, a, l, l, t, t, u}
+	{a, a, l, l, t, u, u}
+	{a, a, l, l, u, u, u}
+	{a, a, l, o, o, o, o}
+	{a, a, l, o, o, o, r}
+	{a, a, l, o, o, o, t}
+	{a, a, l, o, o, o, u}
+	{a, a, l, o, o, r, r}
+	{a, a, l, o, o, r, t}
+	{a, a, l, o, o, r, u}
+	{a, a, l, o, o, t, t}
+	{a, a, l, o, o, t, u}
+	{a, a, l, o, o, u, u}
+	{a, a, l, o, r, r, r}
+	{a, a, l, o, r, r, t}
+	{a, a, l, o, r, r, u}
+	{a, a, l, o, r, t, t}
+	{a, a, l, o, r, t, u}
+	{a, a, l, o, r, u, u}
+	{a, a, l, o, t, t, t}
+	{a, a, l, o, t, t, u}
+	{a, a, l, o, t, u, u}
+	{a, a, l, o, u, u, u}
+	{a, a, l, r, r, r, r}
+	{a, a, l, r, r, r, t}
+	{a, a, l, r, r, r, u}
+	{a, a, l, r, r, t, t}
+	{a, a, l, r, r, t, u}
+	{a, a, l, r, r, u, u}
+	{a, a, l, r, t, t, t}
+	{a, a, l, r, t, t, u}
+	{a, a, l, r, t, u, u}
+	{a, a, l, r, u, u, u}
+	{a, a, l, t, t, t, t}
+	{a, a, l, t, t, t, u}
+	{a, a, l, t, t, u, u}
+	{a, a, l, t, u, u, u}
+	{a, a, l, u, u, u, u}
+	{a, a, o, o, o, o, o}
+	{a, a, o, o, o, o, r}
+	{a, a, o, o, o, o, t}
+	{a, a, o, o, o, o, u}
+	{a, a, o, o, o, r, r}
+	{a, a, o, o, o, r, t}
+	{a, a, o, o, o, r, u}
+	{a, a, o, o, o, t, t}
+	{a, a, o, o, o, t, u}
+	{a, a, o, o, o, u, u}
+	{a, a, o, o, r, r, r}
+	{a, a, o, o, r, r, t}
+	{a, a, o, o, r, r, u}
+	{a, a, o, o, r, t, t}
+	{a, a, o, o, r, t, u}
+	{a, a, o, o, r, u, u}
+	{a, a, o, o, t, t, t}
+	{a, a, o, o, t, t, u}
+	{a, a, o, o, t, u, u}
+	{a, a, o, o, u, u, u}
+	{a, a, o, r, r, r, r}
+	{a, a, o, r, r, r, t}
+	{a, a, o, r, r, r, u}
+	{a, a, o, r, r, t, t}
+	{a, a, o, r, r, t, u}
+	{a, a, o, r, r, u, u}
+	{a, a, o, r, t, t, t}
+	{a, a, o, r, t, t, u}
+	{a, a, o, r, t, u, u}
+	{a, a, o, r, u, u, u}
+	{a, a, o, t, t, t, t}
+	{a, a, o, t, t, t, u}
+	{a, a, o, t, t, u, u}
+	{a, a, o, t, u, u, u}
+	{a, a, o, u, u, u, u}
+	{a, a, r, r, r, r, r}
+	{a, a, r, r, r, r, t}
+	{a, a, r, r, r, r, u}
+	{a, a, r, r, r, t, t}
+	{a, a, r, r, r, t, u}
+	{a, a, r, r, r, u, u}
+	{a, a, r, r, t, t, t}
+	{a, a, r, r, t, t, u}
+	{a, a, r, r, t, u, u}
+	{a, a, r, r, u, u, u}
+	{a, a, r, t, t, t, t}
+	{a, a, r, t, t, t, u}
+	{a, a, r, t, t, u, u}
+	{a, a, r, t, u, u, u}
+	{a, a, r, u, u, u, u}
+	{a, a, t, t, t, t, t}
+	{a, a, t, t, t, t, u}
+	{a, a, t, t, t, u, u}
+	{a, a, t, t, u, u, u}
+	{a, a, t, u, u, u, u}
+	{a, a, u, u, u, u, u}
+	{a, c, c, c, c, c, c}
+	{a, c, c, c, c, c, l}
+	{a, c, c, c, c, c, o}
+	{a, c, c, c, c, c, r}
+	{a, c, c, c, c, c, t}
+	{a, c, c, c, c, c, u}
+	{a, c, c, c, c, l, l}
+	{a, c, c, c, c, l, o}
+	{a, c, c, c, c, l, r}
+	{a, c, c, c, c, l, t}
+	{a, c, c, c, c, l, u}
+	{a, c, c, c, c, o, o}
+	{a, c, c, c, c, o, r}
+	{a, c, c, c, c, o, t}
+	{a, c, c, c, c, o, u}
+	{a, c, c, c, c, r, r}
+	{a, c, c, c, c, r, t}
+	{a, c, c, c, c, r, u}
+	{a, c, c, c, c, t, t}
+	{a, c, c, c, c, t, u}
+	{a, c, c, c, c, u, u}
+	{a, c, c, c, l, l, l}
+	{a, c, c, c, l, l, o}
+	{a, c, c, c, l, l, r}
+	{a, c, c, c, l, l, t}
+	{a, c, c, c, l, l, u}
+	{a, c, c, c, l, o, o}
+	{a, c, c, c, l, o, r}
+	{a, c, c, c, l, o, t}
+	{a, c, c, c, l, o, u}
+	{a, c, c, c, l, r, r}
+	{a, c, c, c, l, r, t}
+	{a, c, c, c, l, r, u}
+	{a, c, c, c, l, t, t}
+	{a, c, c, c, l, t, u}
+	{a, c, c, c, l, u, u}
+	{a, c, c, c, o, o, o}
+	{a, c, c, c, o, o, r}
+	{a, c, c, c, o, o, t}
+	{a, c, c, c, o, o, u}
+	{a, c, c, c, o, r, r}
+	{a, c, c, c, o, r, t}
+	{a, c, c, c, o, r, u}
+	{a, c, c, c, o, t, t}
+	{a, c, c, c, o, t, u}
+	{a, c, c, c, o, u, u}
+	{a, c, c, c, r, r, r}
+	{a, c, c, c, r, r, t}
+	{a, c, c, c, r, r, u}
+	{a, c, c, c, r, t, t}
+	{a, c, c, c, r, t, u}
+	{a, c, c, c, r, u, u}
+	{a, c, c, c, t, t, t}
+	{a, c, c, c, t, t, u}
+	{a, c, c, c, t, u, u}
+	{a, c, c, c, u, u, u}
+	{a, c, c, l, l, l, l}
+	{a, c, c, l, l, l, o}
+	{a, c, c, l, l, l, r}
+	{a, c, c, l, l, l, t}
+	{a, c, c, l, l, l, u}
+	{a, c, c, l, l, o, o}
+	{a, c, c, l, l, o, r}
+	{a, c, c, l, l, o, t}
+	{a, c, c, l, l, o, u}
+	{a, c, c, l, l, r, r}
+	{a, c, c, l, l, r, t}
+	{a, c, c, l, l, r, u}
+	{a, c, c, l, l, t, t}
+	{a, c, c, l, l, t, u}
+	{a, c, c, l, l, u, u}
+	{a, c, c, l, o, o, o}
+	{a, c, c, l, o, o, r}
+	{a, c, c, l, o, o, t}
+	{a, c, c, l, o, o, u}
+	{a, c, c, l, o, r, r}
+	{a, c, c, l, o, r, t}
+	{a, c, c, l, o, r, u}
+	{a, c, c, l, o, t, t}
+	{a, c, c, l, o, t, u}
+	{a, c, c, l, o, u, u}
+	{a, c, c, l, r, r, r}
+	{a, c, c, l, r, r, t}
+	{a, c, c, l, r, r, u}
+	{a, c, c, l, r, t, t}
+	{a, c, c, l, r, t, u}
+	{a, c, c, l, r, u, u}
+	{a, c, c, l, t, t, t}
+	{a, c, c, l, t, t, u}
+	{a, c, c, l, t, u, u}
+	{a, c, c, l, u, u, u}
+	{a, c, c, o, o, o, o}
+	{a, c, c, o, o, o, r}
+	{a, c, c, o, o, o, t}
+	{a, c, c, o, o, o, u}
+	{a, c, c, o, o, r, r}
+	{a, c, c, o, o, r, t}
+	{a, c, c, o, o, r, u}
+	{a, c, c, o, o, t, t}
+	{a, c, c, o, o, t, u}
+	{a, c, c, o, o, u, u}
+	{a, c, c, o, r, r, r}
+	{a, c, c, o, r, r, t}
+	{a, c, c, o, r, r, u}
+	{a, c, c, o, r, t, t}
+	{a, c, c, o, r, t, u}
+	{a, c, c, o, r, u, u}
+	{a, c, c, o, t, t, t}
+	{a, c, c, o, t, t, u}
+	{a, c, c, o, t, u, u}
+	{a, c, c, o, u, u, u}
+	{a, c, c, r, r, r, r}
+	{a, c, c, r, r, r, t}
+	{a, c, c, r, r, r, u}
+	{a, c, c, r, r, t, t}
+	{a, c, c, r, r, t, u}
+	{a, c, c, r, r, u, u}
+	{a, c, c, r, t, t, t}
+	{a, c, c, r, t, t, u}
+	{a, c, c, r, t, u, u}
+	{a, c, c, r, u, u, u}
+	{a, c, c, t, t, t, t}
+	{a, c, c, t, t, t, u}
+	{a, c, c, t, t, u, u}
+	{a, c, c, t, u, u, u}
+	{a, c, c, u, u, u, u}
+	{a, c, l, l, l, l, l}
+	{a, c, l, l, l, l, o}
+	{a, c, l, l, l, l, r}
+	{a, c, l, l, l, l, t}
+	{a, c, l, l, l, l, u}
+	{a, c, l, l, l, o, o}
+	{a, c, l, l, l, o, r}
+	{a, c, l, l, l, o, t}
+	{a, c, l, l, l, o, u}
+	{a, c, l, l, l, r, r}
+	{a, c, l, l, l, r, t}
+	{a, c, l, l, l, r, u}
+	{a, c, l, l, l, t, t}
+	{a, c, l, l, l, t, u}
+	{a, c, l, l, l, u, u}
+	{a, c, l, l, o, o, o}
+	{a, c, l, l, o, o, r}
+	{a, c, l, l, o, o, t}
+	{a, c, l, l, o, o, u}
+	{a, c, l, l, o, r, r}
+	{a, c, l, l, o, r, t}
+	{a, c, l, l, o, r, u}
+	{a, c, l, l, o, t, t}
+	{a, c, l, l, o, t, u}
+	{a, c, l, l, o, u, u}
+	{a, c, l, l, r, r, r}
+	{a, c, l, l, r, r, t}
+	{a, c, l, l, r, r, u}
+	{a, c, l, l, r, t, t}
+	{a, c, l, l, r, t, u}
+	{a, c, l, l, r, u, u}
+	{a, c, l, l, t, t, t}
+	{a, c, l, l, t, t, u}
+	{a, c, l, l, t, u, u}
+	{a, c, l, l, u, u, u}
+	{a, c, l, o, o, o, o}
+	{a, c, l, o, o, o, r}
+	{a, c, l, o, o, o, t}
+	{a, c, l, o, o, o, u}
+	{a, c, l, o, o, r, r}
+	{a, c, l, o, o, r, t}
+	{a, c, l, o, o, r, u}
+	{a, c, l, o, o, t, t}
+	{a, c, l, o, o, t, u}
+	{a, c, l, o, o, u, u}
+	{a, c, l, o, r, r, r}
+	{a, c, l, o, r, r, t}
+	{a, c, l, o, r, r, u}
+	{a, c, l, o, r, t, t}
+	{a, c, l, o, r, t, u}
+	{a, c, l, o, r, u, u}
+	{a, c, l, o, t, t, t}
+	{a, c, l, o, t, t, u}
+	{a, c, l, o, t, u, u}
+	{a, c, l, o, u, u, u}
+	{a, c, l, r, r, r, r}
+	{a, c, l, r, r, r, t}
+	{a, c, l, r, r, r, u}
+	{a, c, l, r, r, t, t}
+	{a, c, l, r, r, t, u}
+	{a, c, l, r, r, u, u}
+	{a, c, l, r, t, t, t}
+	{a, c, l, r, t, t, u}
+	{a, c, l, r, t, u, u}
+	{a, c, l, r, u, u, u}
+	{a, c, l, t, t, t, t}
+	{a, c, l, t, t, t, u}
+	{a, c, l, t, t, u, u}
+	{a, c, l, t, u, u, u}
+	{a, c, l, u, u, u, u}
+	{a, c, o, o, o, o, o}
+	{a, c, o, o, o, o, r}
+	{a, c, o, o, o, o, t}
+	{a, c, o, o, o, o, u}
+	{a, c, o, o, o, r, r}
+	{a, c, o, o, o, r, t}
+	{a, c, o, o, o, r, u}
+	{a, c, o, o, o, t, t}
+	{a, c, o, o, o, t, u}
+	{a, c, o, o, o, u, u}
+	{a, c, o, o, r, r, r}
+	{a, c, o, o, r, r, t}
+	{a, c, o, o, r, r, u}
+	{a, c, o, o, r, t, t}
+	{a, c, o, o, r, t, u}
+	{a, c, o, o, r, u, u}
+	{a, c, o, o, t, t, t}
+	{a, c, o, o, t, t, u}
+	{a, c, o, o, t, u, u}
+	{a, c, o, o, u, u, u}
+	{a, c, o, r, r, r, r}
+	{a, c, o, r, r, r, t}
+	{a, c, o, r, r, r, u}
+	{a, c, o, r, r, t, t}
+	{a, c, o, r, r, t, u}
+	{a, c, o, r, r, u, u}
+	{a, c, o, r, t, t, t}
+	{a, c, o, r, t, t, u}
+	{a, c, o, r, t, u, u}
+	{a, c, o, r, u, u, u}
+	{a, c, o, t, t, t, t}
+	{a, c, o, t, t, t, u}
+	{a, c, o, t, t, u, u}
+	{a, c, o, t, u, u, u}
+	{a, c, o, u, u, u, u}
+	{a, c, r, r, r, r, r}
+	{a, c, r, r, r, r, t}
+	{a, c, r, r, r, r, u}
+	{a, c, r, r, r, t, t}
+	{a, c, r, r, r, t, u}
+	{a, c, r, r, r, u, u}
+	{a, c, r, r, t, t, t}
+	{a, c, r, r, t, t, u}
+	{a, c, r, r, t, u, u}
+	{a, c, r, r, u, u, u}
+	{a, c, r, t, t, t, t}
+	{a, c, r, t, t, t, u}
+	{a, c, r, t, t, u, u}
+	{a, c, r, t, u, u, u}
+	{a, c, r, u, u, u, u}
+	{a, c, t, t, t, t, t}
+	{a, c, t, t, t, t, u}
+	{a, c, t, t, t, u, u}
+	{a, c, t, t, u, u, u}
+	{a, c, t, u, u, u, u}
+	{a, c, u, u, u, u, u}
+	{a, l, l, l, l, l, l}
+	{a, l, l, l, l, l, o}
+	{a, l, l, l, l, l, r}
+	{a, l, l, l, l, l, t}
+	{a, l, l, l, l, l, u}
+	{a, l, l, l, l, o, o}
+	{a, l, l, l, l, o, r}
+	{a, l, l, l, l, o, t}
+	{a, l, l, l, l, o, u}
+	{a, l, l, l, l, r, r}
+	{a, l, l, l, l, r, t}
+	{a, l, l, l, l, r, u}
+	{a, l, l, l, l, t, t}
+	{a, l, l, l, l, t, u}
+	{a, l, l, l, l, u, u}
+	{a, l, l, l, o, o, o}
+	{a, l, l, l, o, o, r}
+	{a, l, l, l, o, o, t}
+	{a, l, l, l, o, o, u}
+	{a, l, l, l, o, r, r}
+	{a, l, l, l, o, r, t}
+	{a, l, l, l, o, r, u}
+	{a, l, l, l, o, t, t}
+	{a, l, l, l, o, t, u}
+	{a, l, l, l, o, u, u}
+	{a, l, l, l, r, r, r}
+	{a, l, l, l, r, r, t}
+	{a, l, l, l, r, r, u}
+	{a, l, l, l, r, t, t}
+	{a, l, l, l, r, t, u}
+	{a, l, l, l, r, u, u}
+	{a, l, l, l, t, t, t}
+	{a, l, l, l, t, t, u}
+	{a, l, l, l, t, u, u}
+	{a, l, l, l, u, u, u}
+	{a, l, l, o, o, o, o}
+	{a, l, l, o, o, o, r}
+	{a, l, l, o, o, o, t}
+	{a, l, l, o, o, o, u}
+	{a, l, l, o, o, r, r}
+	{a, l, l, o, o, r, t}
+	{a, l, l, o, o, r, u}
+	{a, l, l, o, o, t, t}
+	{a, l, l, o, o, t, u}
+	{a, l, l, o, o, u, u}
+	{a, l, l, o, r, r, r}
+	{a, l, l, o, r, r, t}
+	{a, l, l, o, r, r, u}
+	{a, l, l, o, r, t, t}
+	{a, l, l, o, r, t, u}
+	{a, l, l, o, r, u, u}
+	{a, l, l, o, t, t, t}
+	{a, l, l, o, t, t, u}
+	{a, l, l, o, t, u, u}
+	{a, l, l, o, u, u, u}
+	{a, l, l, r, r, r, r}
+	{a, l, l, r, r, r, t}
+	{a, l, l, r, r, r, u}
+	{a, l, l, r, r, t, t}
+	{a, l, l, r, r, t, u}
+	{a, l, l, r, r, u, u}
+	{a, l, l, r, t, t, t}
+	{a, l, l, r, t, t, u}
+	{a, l, l, r, t, u, u}
+	{a, l, l, r, u, u, u}
+	{a, l, l, t, t, t, t}
+	{a, l, l, t, t, t, u}
+	{a, l, l, t, t, u, u}
+	{a, l, l, t, u, u, u}
+	{a, l, l, u, u, u, u}
+	{a, l, o, o, o, o, o}
+	{a, l, o, o, o, o, r}
+	{a, l, o, o, o, o, t}
+	{a, l, o, o, o, o, u}
+	{a, l, o, o, o, r, r}
+	{a, l, o, o, o, r, t}
+	{a, l, o, o, o, r, u}
+	{a, l, o, o, o, t, t}
+	{a, l, o, o, o, t, u}
+	{a, l, o, o, o, u, u}
+	{a, l, o, o, r, r, r}
+	{a, l, o, o, r, r, t}
+	{a, l, o, o, r, r, u}
+	{a, l, o, o, r, t, t}
+	{a, l, o, o, r, t, u}
+	{a, l, o, o, r, u, u}
+	{a, l, o, o, t, t, t}
+	{a, l, o, o, t, t, u}
+	{a, l, o, o, t, u, u}
+	{a, l, o, o, u, u, u}
+	{a, l, o, r, r, r, r}
+	{a, l, o, r, r, r, t}
+	{a, l, o, r, r, r, u}
+	{a, l, o, r, r, t, t}
+	{a, l, o, r, r, t, u}
+	{a, l, o, r, r, u, u}
+	{a, l, o, r, t, t, t}
+	{a, l, o, r, t, t, u}
+	{a, l, o, r, t, u, u}
+	{a, l, o, r, u, u, u}
+	{a, l, o, t, t, t, t}
+	{a, l, o, t, t, t, u}
+	{a, l, o, t, t, u, u}
+	{a, l, o, t, u, u, u}
+	{a, l, o, u, u, u, u}
+	{a, l, r, r, r, r, r}
+	{a, l, r, r, r, r, t}
+	{a, l, r, r, r, r, u}
+	{a, l, r, r, r, t, t}
+	{a, l, r, r, r, t, u}
+	{a, l, r, r, r, u, u}
+	{a, l, r, r, t, t, t}
+	{a, l, r, r, t, t, u}
+	{a, l, r, r, t, u, u}
+	{a, l, r, r, u, u, u}
+	{a, l, r, t, t, t, t}
+	{a, l, r, t, t, t, u}
+	{a, l, r, t, t, u, u}
+	{a, l, r, t, u, u, u}
+	{a, l, r, u, u, u, u}
+	{a, l, t, t, t, t, t}
+	{a, l, t, t, t, t, u}
+	{a, l, t, t, t, u, u}
+	{a, l, t, t, u, u, u}
+	{a, l, t, u, u, u, u}
+	{a, l, u, u, u, u, u}
+	{a, o, o, o, o, o, o}
+	{a, o, o, o, o, o, r}
+	{a, o, o, o, o, o, t}
+	{a, o, o, o, o, o, u}
+	{a, o, o, o, o, r, r}
+	{a, o, o, o, o, r, t}
+	{a, o, o, o, o, r, u}
+	{a, o, o, o, o, t, t}
+	{a, o, o, o, o, t, u}
+	{a, o, o, o, o, u, u}
+	{a, o, o, o, r, r, r}
+	{a, o, o, o, r, r, t}
+	{a, o, o, o, r, r, u}
+	{a, o, o, o, r, t, t}
+	{a, o, o, o, r, t, u}
+	{a, o, o, o, r, u, u}
+	{a, o, o, o, t, t, t}
+	{a, o, o, o, t, t, u}
+	{a, o, o, o, t, u, u}
+	{a, o, o, o, u, u, u}
+	{a, o, o, r, r, r, r}
+	{a, o, o, r, r, r, t}
+	{a, o, o, r, r, r, u}
+	{a, o, o, r, r, t, t}
+	{a, o, o, r, r, t, u}
+	{a, o, o, r, r, u, u}
+	{a, o, o, r, t, t, t}
+	{a, o, o, r, t, t, u}
+	{a, o, o, r, t, u, u}
+	{a, o, o, r, u, u, u}
+	{a, o, o, t, t, t, t}
+	{a, o, o, t, t, t, u}
+	{a, o, o, t, t, u, u}
+	{a, o, o, t, u, u, u}
+	{a, o, o, u, u, u, u}
+	{a, o, r, r, r, r, r}
+	{a, o, r, r, r, r, t}
+	{a, o, r, r, r, r, u}
+	{a, o, r, r, r, t, t}
+	{a, o, r, r, r, t, u}
+	{a, o, r, r, r, u, u}
+	{a, o, r, r, t, t, t}
+	{a, o, r, r, t, t, u}
+	{a, o, r, r, t, u, u}
+	{a, o, r, r, u, u, u}
+	{a, o, r, t, t, t, t}
+	{a, o, r, t, t, t, u}
+	{a, o, r, t, t, u, u}
+	{a, o, r, t, u, u, u}
+	{a, o, r, u, u, u, u}
+	{a, o, t, t, t, t, t}
+	{a, o, t, t, t, t, u}
+	{a, o, t, t, t, u, u}
+	{a, o, t, t, u, u, u}
+	{a, o, t, u, u, u, u}
+	{a, o, u, u, u, u, u}
+	{a, r, r, r, r, r, r}
+	{a, r, r, r, r, r, t}
+	{a, r, r, r, r, r, u}
+	{a, r, r, r, r, t, t}
+	{a, r, r, r, r, t, u}
+	{a, r, r, r, r, u, u}
+	{a, r, r, r, t, t, t}
+	{a, r, r, r, t, t, u}
+	{a, r, r, r, t, u, u}
+	{a, r, r, r, u, u, u}
+	{a, r, r, t, t, t, t}
+	{a, r, r, t, t, t, u}
+	{a, r, r, t, t, u, u}
+	{a, r, r, t, u, u, u}
+	{a, r, r, u, u, u, u}
+	{a, r, t, t, t, t, t}
+	{a, r, t, t, t, t, u}
+	{a, r, t, t, t, u, u}
+	{a, r, t, t, u, u, u}
+	{a, r, t, u, u, u, u}
+	{a, r, u, u, u, u, u}
+	{a, t, t, t, t, t, t}
+	{a, t, t, t, t, t, u}
+	{a, t, t, t, t, u, u}
+	{a, t, t, t, u, u, u}
+	{a, t, t, u, u, u, u}
+	{a, t, u, u, u, u, u}
+	{a, u, u, u, u, u, u}
+	{c, c, c, c, c, c, c}
+	{c, c, c, c, c, c, l}
+	{c, c, c, c, c, c, o}
+	{c, c, c, c, c, c, r}
+	{c, c, c, c, c, c, t}
+	{c, c, c, c, c, c, u}
+	{c, c, c, c, c, l, l}
+	{c, c, c, c, c, l, o}
+	{c, c, c, c, c, l, r}
+	{c, c, c, c, c, l, t}
+	{c, c, c, c, c, l, u}
+	{c, c, c, c, c, o, o}
+	{c, c, c, c, c, o, r}
+	{c, c, c, c, c, o, t}
+	{c, c, c, c, c, o, u}
+	{c, c, c, c, c, r, r}
+	{c, c, c, c, c, r, t}
+	{c, c, c, c, c, r, u}
+	{c, c, c, c, c, t, t}
+	{c, c, c, c, c, t, u}
+	{c, c, c, c, c, u, u}
+	{c, c, c, c, l, l, l}
+	{c, c, c, c, l, l, o}
+	{c, c, c, c, l, l, r}
+	{c, c, c, c, l, l, t}
+	{c, c, c, c, l, l, u}
+	{c, c, c, c, l, o, o}
+	{c, c, c, c, l, o, r}
+	{c, c, c, c, l, o, t}
+	{c, c, c, c, l, o, u}
+	{c, c, c, c, l, r, r}
+	{c, c, c, c, l, r, t}
+	{c, c, c, c, l, r, u}
+	{c, c, c, c, l, t, t}
+	{c, c, c, c, l, t, u}
+	{c, c, c, c, l, u, u}
+	{c, c, c, c, o, o, o}
+	{c, c, c, c, o, o, r}
+	{c, c, c, c, o, o, t}
+	{c, c, c, c, o, o, u}
+	{c, c, c, c, o, r, r}
+	{c, c, c, c, o, r, t}
+	{c, c, c, c, o, r, u}
+	{c, c, c, c, o, t, t}
+	{c, c, c, c, o, t, u}
+	{c, c, c, c, o, u, u}
+	{c, c, c, c, r, r, r}
+	{c, c, c, c, r, r, t}
+	{c, c, c, c, r, r, u}
+	{c, c, c, c, r, t, t}
+	{c, c, c, c, r, t, u}
+	{c, c, c, c, r, u, u}
+	{c, c, c, c, t, t, t}
+	{c, c, c, c, t, t, u}
+	{c, c, c, c, t, u, u}
+	{c, c, c, c, u, u, u}
+	{c, c, c, l, l, l, l}
+	{c, c, c, l, l, l, o}
+	{c, c, c, l, l, l, r}
+	{c, c, c, l, l, l, t}
+	{c, c, c, l, l, l, u}
+	{c, c, c, l, l, o, o}
+	{c, c, c, l, l, o, r}
+	{c, c, c, l, l, o, t}
+	{c, c, c, l, l, o, u}
+	{c, c, c, l, l, r, r}
+	{c, c, c, l, l, r, t}
+	{c, c, c, l, l, r, u}
+	{c, c, c, l, l, t, t}
+	{c, c, c, l, l, t, u}
+	{c, c, c, l, l, u, u}
+	{c, c, c, l, o, o, o}
+	{c, c, c, l, o, o, r}
+	{c, c, c, l, o, o, t}
+	{c, c, c, l, o, o, u}
+	{c, c, c, l, o, r, r}
+	{c, c, c, l, o, r, t}
+	{c, c, c, l, o, r, u}
+	{c, c, c, l, o, t, t}
+	{c, c, c, l, o, t, u}
+	{c, c, c, l, o, u, u}
+	{c, c, c, l, r, r, r}
+	{c, c, c, l, r, r, t}
+	{c, c, c, l, r, r, u}
+	{c, c, c, l, r, t, t}
+	{c, c, c, l, r, t, u}
+	{c, c, c, l, r, u, u}
+	{c, c, c, l, t, t, t}
+	{c, c, c, l, t, t, u}
+	{c, c, c, l, t, u, u}
+	{c, c, c, l, u, u, u}
+	{c, c, c, o, o, o, o}
+	{c, c, c, o, o, o, r}
+	{c, c, c, o, o, o, t}
+	{c, c, c, o, o, o, u}
+	{c, c, c, o, o, r, r}
+	{c, c, c, o, o, r, t}
+	{c, c, c, o, o, r, u}
+	{c, c, c, o, o, t, t}
+	{c, c, c, o, o, t, u}
+	{c, c, c, o, o, u, u}
+	{c, c, c, o, r, r, r}
+	{c, c, c, o, r, r, t}
+	{c, c, c, o, r, r, u}
+	{c, c, c, o, r, t, t}
+	{c, c, c, o, r, t, u}
+	{c, c, c, o, r, u, u}
+	{c, c, c, o, t, t, t}
+	{c, c, c, o, t, t, u}
+	{c, c, c, o, t, u, u}
+	{c, c, c, o, u, u, u}
+	{c, c, c, r, r, r, r}
+	{c, c, c, r, r, r, t}
+	{c, c, c, r, r, r, u}
+	{c, c, c, r, r, t, t}
+	{c, c, c, r, r, t, u}
+	{c, c, c, r, r, u, u}
+	{c, c, c, r, t, t, t}
+	{c, c, c, r, t, t, u}
+	{c, c, c, r, t, u, u}
+	{c, c, c, r, u, u, u}
+	{c, c, c, t, t, t, t}
+	{c, c, c, t, t, t, u}
+	{c, c, c, t, t, u, u}
+	{c, c, c, t, u, u, u}
+	{c, c, c, u, u, u, u}
+	{c, c, l, l, l, l, l}
+	{c, c, l, l, l, l, o}
+	{c, c, l, l, l, l, r}
+	{c, c, l, l, l, l, t}
+	{c, c, l, l, l, l, u}
+	{c, c, l, l, l, o, o}
+	{c, c, l, l, l, o, r}
+	{c, c, l, l, l, o, t}
+	{c, c, l, l, l, o, u}
+	{c, c, l, l, l, r, r}
+	{c, c, l, l, l, r, t}
+	{c, c, l, l, l, r, u}
+	{c, c, l, l, l, t, t}
+	{c, c, l, l, l, t, u}
+	{c, c, l, l, l, u, u}
+	{c, c, l, l, o, o, o}
+	{c, c, l, l, o, o, r}
+	{c, c, l, l, o, o, t}
+	{c, c, l, l, o, o, u}
+	{c, c, l, l, o, r, r}
+	{c, c, l, l, o, r, t}
+	{c, c, l, l, o, r, u}
+	{c, c, l, l, o, t, t}
+	{c, c, l, l, o, t, u}
+	{c, c, l, l, o, u, u}
+	{c, c, l, l, r, r, r}
+	{c, c, l, l, r, r, t}
+	{c, c, l, l, r, r, u}
+	{c, c, l, l, r, t, t}
+	{c, c, l, l, r, t, u}
+	{c, c, l, l, r, u, u}
+	{c, c, l, l, t, t, t}
+	{c, c, l, l, t, t, u}
+	{c, c, l, l, t, u, u}
+	{c, c, l, l, u, u, u}
+	{c, c, l, o, o, o, o}
+	{c, c, l, o, o, o, r}
+	{c, c, l, o, o, o, t}
+	{c, c, l, o, o, o, u}
+	{c, c, l, o, o, r, r}
+	{c, c, l, o, o, r, t}
+	{c, c, l, o, o, r, u}
+	{c, c, l, o, o, t, t}
+	{c, c, l, o, o, t, u}
+	{c, c, l, o, o, u, u}
+	{c, c, l, o, r, r, r}
+	{c, c, l, o, r, r, t}
+	{c, c, l, o, r, r, u}
+	{c, c, l, o, r, t, t}
+	{c, c, l, o, r, t, u}
+	{c, c, l, o, r, u, u}
+	{c, c, l, o, t, t, t}
+	{c, c, l, o, t, t, u}
+	{c, c, l, o, t, u, u}
+	{c, c, l, o, u, u, u}
+	{c, c, l, r, r, r, r}
+	{c, c, l, r, r, r, t}
+	{c, c, l, r, r, r, u}
+	{c, c, l, r, r, t, t}
+	{c, c, l, r, r, t, u}
+	{c, c, l, r, r, u, u}
+	{c, c, l, r, t, t, t}
+	{c, c, l, r, t, t, u}
+	{c, c, l, r, t, u, u}
+	{c, c, l, r, u, u, u}
+	{c, c, l, t, t, t, t}
+	{c, c, l, t, t, t, u}
+	{c, c, l, t, t, u, u}
+	{c, c, l, t, u, u, u}
+	{c, c, l, u, u, u, u}
+	{c, c, o, o, o, o, o}
+	{c, c, o, o, o, o, r}
+	{c, c, o, o, o, o, t}
+	{c, c, o, o, o, o, u}
+	{c, c, o, o, o, r, r}
+	{c, c, o, o, o, r, t}
+	{c, c, o, o, o, r, u}
+	{c, c, o, o, o, t, t}
+	{c, c, o, o, o, t, u}
+	{c, c, o, o, o, u, u}
+	{c, c, o, o, r, r, r}
+	{c, c, o, o, r, r, t}
+	{c, c, o, o, r, r, u}
+	{c, c, o, o, r, t, t}
+	{c, c, o, o, r, t, u}
+	{c, c, o, o, r, u, u}
+	{c, c, o, o, t, t, t}
+	{c, c, o, o, t, t, u}
+	{c, c, o, o, t, u, u}
+	{c, c, o, o, u, u, u}
+	{c, c, o, r, r, r, r}
+	{c, c, o, r, r, r, t}
+	{c, c, o, r, r, r, u}
+	{c, c, o, r, r, t, t}
+	{c, c, o, r, r, t, u}
+	{c, c, o, r, r, u, u}
+	{c, c, o, r, t, t, t}
+	{c, c, o, r, t, t, u}
+	{c, c, o, r, t, u, u}
+	{c, c, o, r, u, u, u}
+	{c, c, o, t, t, t, t}
+	{c, c, o, t, t, t, u}
+	{c, c, o, t, t, u, u}
+	{c, c, o, t, u, u, u}
+	{c, c, o, u, u, u, u}
+	{c, c, r, r, r, r, r}
+	{c, c, r, r, r, r, t}
+	{c, c, r, r, r, r, u}
+	{c, c, r, r, r, t, t}
+	{c, c, r, r, r, t, u}
+	{c, c, r, r, r, u, u}
+	{c, c, r, r, t, t, t}
+	{c, c, r, r, t, t, u}
+	{c, c, r, r, t, u, u}
+	{c, c, r, r, u, u, u}
+	{c, c, r, t, t, t, t}
+	{c, c, r, t, t, t, u}
+	{c, c, r, t, t, u, u}
+	{c, c, r, t, u, u, u}
+	{c, c, r, u, u, u, u}
+	{c, c, t, t, t, t, t}
+	{c, c, t, t, t, t, u}
+	{c, c, t, t, t, u, u}
+	{c, c, t, t, u, u, u}
+	{c, c, t, u, u, u, u}
+	{c, c, u, u, u, u, u}
+	{c, l, l, l, l, l, l}
+	{c, l, l, l, l, l, o}
+	{c, l, l, l, l, l, r}
+	{c, l, l, l, l, l, t}
+	{c, l, l, l, l, l, u}
+	{c, l, l, l, l, o, o}
+	{c, l, l, l, l, o, r}
+	{c, l, l, l, l, o, t}
+	{c, l, l, l, l, o, u}
+	{c, l, l, l, l, r, r}
+	{c, l, l, l, l, r, t}
+	{c, l, l, l, l, r, u}
+	{c, l, l, l, l, t, t}
+	{c, l, l, l, l, t, u}
+	{c, l, l, l, l, u, u}
+	{c, l, l, l, o, o, o}
+	{c, l, l, l, o, o, r}
+	{c, l, l, l, o, o, t}
+	{c, l, l, l, o, o, u}
+	{c, l, l, l, o, r, r}
+	{c, l, l, l, o, r, t}
+	{c, l, l, l, o, r, u}
+	{c, l, l, l, o, t, t}
+	{c, l, l, l, o, t, u}
+	{c, l, l, l, o, u, u}
+	{c, l, l, l, r, r, r}
+	{c, l, l, l, r, r, t}
+	{c, l, l, l, r, r, u}
+	{c, l, l, l, r, t, t}
+	{c, l, l, l, r, t, u}
+	{c, l, l, l, r, u, u}
+	{c, l, l, l, t, t, t}
+	{c, l, l, l, t, t, u}
+	{c, l, l, l, t, u, u}
+	{c, l, l, l, u, u, u}
+	{c, l, l, o, o, o, o}
+	{c, l, l, o, o, o, r}
+	{c, l, l, o, o, o, t}
+	{c, l, l, o, o, o, u}
+	{c, l, l, o, o, r, r}
+	{c, l, l, o, o, r, t}
+	{c, l, l, o, o, r, u}
+	{c, l, l, o, o, t, t}
+	{c, l, l, o, o, t, u}
+	{c, l, l, o, o, u, u}
+	{c, l, l, o, r, r, r}
+	{c, l, l, o, r, r, t}
+	{c, l, l, o, r, r, u}
+	{c, l, l, o, r, t, t}
+	{c, l, l, o, r, t, u}
+	{c, l, l, o, r, u, u}
+	{c, l, l, o, t, t, t}
+	{c, l, l, o, t, t, u}
+	{c, l, l, o, t, u, u}
+	{c, l, l, o, u, u, u}
+	{c, l, l, r, r, r, r}
+	{c, l, l, r, r, r, t}
+	{c, l, l, r, r, r, u}
+	{c, l, l, r, r, t, t}
+	{c, l, l, r, r, t, u}
+	{c, l, l, r, r, u, u}
+	{c, l, l, r, t, t, t}
+	{c, l, l, r, t, t, u}
+	{c, l, l, r, t, u, u}
+	{c, l, l, r, u, u, u}
+	{c, l, l, t, t, t, t}
+	{c, l, l, t, t, t, u}
+	{c, l, l, t, t, u, u}
+	{c, l, l, t, u, u, u}
+	{c, l, l, u, u, u, u}
+	{c, l, o, o, o, o, o}
+	{c, l, o, o, o, o, r}
+	{c, l, o, o, o, o, t}
+	{c, l, o, o, o, o, u}
+	{c, l, o, o, o, r, r}
+	{c, l, o, o, o, r, t}
+	{c, l, o, o, o, r, u}
+	{c, l, o, o, o, t, t}
+	{c, l, o, o, o, t, u}
+	{c, l, o, o, o, u, u}
+	{c, l, o, o, r, r, r}
+	{c, l, o, o, r, r, t}
+	{c, l, o, o, r, r, u}
+	{c, l, o, o, r, t, t}
+	{c, l, o, o, r, t, u}
+	{c, l, o, o, r, u, u}
+	{c, l, o, o, t, t, t}
+	{c, l, o, o, t, t, u}
+	{c, l, o, o, t, u, u}
+	{c, l, o, o, u, u, u}
+	{c, l, o, r, r, r, r}
+	{c, l, o, r, r, r, t}
+	{c, l, o, r, r, r, u}
+	{c, l, o, r, r, t, t}
+	{c, l, o, r, r, t, u}
+	{c, l, o, r, r, u, u}
+	{c, l, o, r, t, t, t}
+	{c, l, o, r, t, t, u}
+	{c, l, o, r, t, u, u}
+	{c, l, o, r, u, u, u}
+	{c, l, o, t, t, t, t}
+	{c, l, o, t, t, t, u}
+	{c, l, o, t, t, u, u}
+	{c, l, o, t, u, u, u}
+	{c, l, o, u, u, u, u}
+	{c, l, r, r, r, r, r}
+	{c, l, r, r, r, r, t}
+	{c, l, r, r, r, r, u}
+	{c, l, r, r, r, t, t}
+	{c, l, r, r, r, t, u}
+	{c, l, r, r, r, u, u}
+	{c, l, r, r, t, t, t}
+	{c, l, r, r, t, t, u}
+	{c, l, r, r, t, u, u}
+	{c, l, r, r, u, u, u}
+	{c, l, r, t, t, t, t}
+	{c, l, r, t, t, t, u}
+	{c, l, r, t, t, u, u}
+	{c, l, r, t, u, u, u}
+	{c, l, r, u, u, u, u}
+	{c, l, t, t, t, t, t}
+	{c, l, t, t, t, t, u}
+	{c, l, t, t, t, u, u}
+	{c, l, t, t, u, u, u}
+	{c, l, t, u, u, u, u}
+	{c, l, u, u, u, u, u}
+	{c, o, o, o, o, o, o}
+	{c, o, o, o, o, o, r}
+	{c, o, o, o, o, o, t}
+	{c, o, o, o, o, o, u}
+	{c, o, o, o, o, r, r}
+	{c, o, o, o, o, r, t}
+	{c, o, o, o, o, r, u}
+	{c, o, o, o, o, t, t}
+	{c, o, o, o, o, t, u}
+	{c, o, o, o, o, u, u}
+	{c, o, o, o, r, r, r}
+	{c, o, o, o, r, r, t}
+	{c, o, o, o, r, r, u}
+	{c, o, o, o, r, t, t}
+	{c, o, o, o, r, t, u}
+	{c, o, o, o, r, u, u}
+	{c, o, o, o, t, t, t}
+	{c, o, o, o, t, t, u}
+	{c, o, o, o, t, u, u}
+	{c, o, o, o, u, u, u}
+	{c, o, o, r, r, r, r}
+	{c, o, o, r, r, r, t}
+	{c, o, o, r, r, r, u}
+	{c, o, o, r, r, t, t}
+	{c, o, o, r, r, t, u}
+	{c, o, o, r, r, u, u}
+	{c, o, o, r, t, t, t}
+	{c, o, o, r, t, t, u}
+	{c, o, o, r, t, u, u}
+	{c, o, o, r, u, u, u}
+	{c, o, o, t, t, t, t}
+	{c, o, o, t, t, t, u}
+	{c, o, o, t, t, u, u}
+	{c, o, o, t, u, u, u}
+	{c, o, o, u, u, u, u}
+	{c, o, r, r, r, r, r}
+	{c, o, r, r, r, r, t}
+	{c, o, r, r, r, r, u}
+	{c, o, r, r, r, t, t}
+	{c, o, r, r, r, t, u}
+	{c, o, r, r, r, u, u}
+	{c, o, r, r, t, t, t}
+	{c, o, r, r, t, t, u}
+	{c, o, r, r, t, u, u}
+	{c, o, r, r, u, u, u}
+	{c, o, r, t, t, t, t}
+	{c, o, r, t, t, t, u}
+	{c, o, r, t, t, u, u}
+	{c, o, r, t, u, u, u}
+	{c, o, r, u, u, u, u}
+	{c, o, t, t, t, t, t}
+	{c, o, t, t, t, t, u}
+	{c, o, t, t, t, u, u}
+	{c, o, t, t, u, u, u}
+	{c, o, t, u, u, u, u}
+	{c, o, u, u, u, u, u}
+	{c, r, r, r, r, r, r}
+	{c, r, r, r, r, r, t}
+	{c, r, r, r, r, r, u}
+	{c, r, r, r, r, t, t}
+	{c, r, r, r, r, t, u}
+	{c, r, r, r, r, u, u}
+	{c, r, r, r, t, t, t}
+	{c, r, r, r, t, t, u}
+	{c, r, r, r, t, u, u}
+	{c, r, r, r, u, u, u}
+	{c, r, r, t, t, t, t}
+	{c, r, r, t, t, t, u}
+	{c, r, r, t, t, u, u}
+	{c, r, r, t, u, u, u}
+	{c, r, r, u, u, u, u}
+	{c, r, t, t, t, t, t}
+	{c, r, t, t, t, t, u}
+	{c, r, t, t, t, u, u}
+	{c, r, t, t, u, u, u}
+	{c, r, t, u, u, u, u}
+	{c, r, u, u, u, u, u}
+	{c, t, t, t, t, t, t}
+	{c, t, t, t, t, t, u}
+	{c, t, t, t, t, u, u}
+	{c, t, t, t, u, u, u}
+	{c, t, t, u, u, u, u}
+	{c, t, u, u, u, u, u}
+	{c, u, u, u, u, u, u}
+	{l, l, l, l, l, l, l}
+	{l, l, l, l, l, l, o}
+	{l, l, l, l, l, l, r}
+	{l, l, l, l, l, l, t}
+	{l, l, l, l, l, l, u}
+	{l, l, l, l, l, o, o}
+	{l, l, l, l, l, o, r}
+	{l, l, l, l, l, o, t}
+	{l, l, l, l, l, o, u}
+	{l, l, l, l, l, r, r}
+	{l, l, l, l, l, r, t}
+	{l, l, l, l, l, r, u}
+	{l, l, l, l, l, t, t}
+	{l, l, l, l, l, t, u}
+	{l, l, l, l, l, u, u}
+	{l, l, l, l, o, o, o}
+	{l, l, l, l, o, o, r}
+	{l, l, l, l, o, o, t}
+	{l, l, l, l, o, o, u}
+	{l, l, l, l, o, r, r}
+	{l, l, l, l, o, r, t}
+	{l, l, l, l, o, r, u}
+	{l, l, l, l, o, t, t}
+	{l, l, l, l, o, t, u}
+	{l, l, l, l, o, u, u}
+	{l, l, l, l, r, r, r}
+	{l, l, l, l, r, r, t}
+	{l, l, l, l, r, r, u}
+	{l, l, l, l, r, t, t}
+	{l, l, l, l, r, t, u}
+	{l, l, l, l, r, u, u}
+	{l, l, l, l, t, t, t}
+	{l, l, l, l, t, t, u}
+	{l, l, l, l, t, u, u}
+	{l, l, l, l, u, u, u}
+	{l, l, l, o, o, o, o}
+	{l, l, l, o, o, o, r}
+	{l, l, l, o, o, o, t}
+	{l, l, l, o, o, o, u}
+	{l, l, l, o, o, r, r}
+	{l, l, l, o, o, r, t}
+	{l, l, l, o, o, r, u}
+	{l, l, l, o, o, t, t}
+	{l, l, l, o, o, t, u}
+	{l, l, l, o, o, u, u}
+	{l, l, l, o, r, r, r}
+	{l, l, l, o, r, r, t}
+	{l, l, l, o, r, r, u}
+	{l, l, l, o, r, t, t}
+	{l, l, l, o, r, t, u}
+	{l, l, l, o, r, u, u}
+	{l, l, l, o, t, t, t}
+	{l, l, l, o, t, t, u}
+	{l, l, l, o, t, u, u}
+	{l, l, l, o, u, u, u}
+	{l, l, l, r, r, r, r}
+	{l, l, l, r, r, r, t}
+	{l, l, l, r, r, r, u}
+	{l, l, l, r, r, t, t}
+	{l, l, l, r, r, t, u}
+	{l, l, l, r, r, u, u}
+	{l, l, l, r, t, t, t}
+	{l, l, l, r, t, t, u}
+	{l, l, l, r, t, u, u}
+	{l, l, l, r, u, u, u}
+	{l, l, l, t, t, t, t}
+	{l, l, l, t, t, t, u}
+	{l, l, l, t, t, u, u}
+	{l, l, l, t, u, u, u}
+	{l, l, l, u, u, u, u}
+	{l, l, o, o, o, o, o}
+	{l, l, o, o, o, o, r}
+	{l, l, o, o, o, o, t}
+	{l, l, o, o, o, o, u}
+	{l, l, o, o, o, r, r}
+	{l, l, o, o, o, r, t}
+	{l, l, o, o, o, r, u}
+	{l, l, o, o, o, t, t}
+	{l, l, o, o, o, t, u}
+	{l, l, o, o, o, u, u}
+	{l, l, o, o, r, r, r}
+	{l, l, o, o, r, r, t}
+	{l, l, o, o, r, r, u}
+	{l, l, o, o, r, t, t}
+	{l, l, o, o, r, t, u}
+	{l, l, o, o, r, u, u}
+	{l, l, o, o, t, t, t}
+	{l, l, o, o, t, t, u}
+	{l, l, o, o, t, u, u}
+	{l, l, o, o, u, u, u}
+	{l, l, o, r, r, r, r}
+	{l, l, o, r, r, r, t}
+	{l, l, o, r, r, r, u}
+	{l, l, o, r, r, t, t}
+	{l, l, o, r, r, t, u}
+	{l, l, o, r, r, u, u}
+	{l, l, o, r, t, t, t}
+	{l, l, o, r, t, t, u}
+	{l, l, o, r, t, u, u}
+	{l, l, o, r, u, u, u}
+	{l, l, o, t, t, t, t}
+	{l, l, o, t, t, t, u}
+	{l, l, o, t, t, u, u}
+	{l, l, o, t, u, u, u}
+	{l, l, o, u, u, u, u}
+	{l, l, r, r, r, r, r}
+	{l, l, r, r, r, r, t}
+	{l, l, r, r, r, r, u}
+	{l, l, r, r, r, t, t}
+	{l, l, r, r, r, t, u}
+	{l, l, r, r, r, u, u}
+	{l, l, r, r, t, t, t}
+	{l, l, r, r, t, t, u}
+	{l, l, r, r, t, u, u}
+	{l, l, r, r, u, u, u}
+	{l, l, r, t, t, t, t}
+	{l, l, r, t, t, t, u}
+	{l, l, r, t, t, u, u}
+	{l, l, r, t, u, u, u}
+	{l, l, r, u, u, u, u}
+	{l, l, t, t, t, t, t}
+	{l, l, t, t, t, t, u}
+	{l, l, t, t, t, u, u}
+	{l, l, t, t, u, u, u}
+	{l, l, t, u, u, u, u}
+	{l, l, u, u, u, u, u}
+	{l, o, o, o, o, o, o}
+	{l, o, o, o, o, o, r}
+	{l, o, o, o, o, o, t}
+	{l, o, o, o, o, o, u}
+	{l, o, o, o, o, r, r}
+	{l, o, o, o, o, r, t}
+	{l, o, o, o, o, r, u}
+	{l, o, o, o, o, t, t}
+	{l, o, o, o, o, t, u}
+	{l, o, o, o, o, u, u}
+	{l, o, o, o, r, r, r}
+	{l, o, o, o, r, r, t}
+	{l, o, o, o, r, r, u}
+	{l, o, o, o, r, t, t}
+	{l, o, o, o, r, t, u}
+	{l, o, o, o, r, u, u}
+	{l, o, o, o, t, t, t}
+	{l, o, o, o, t, t, u}
+	{l, o, o, o, t, u, u}
+	{l, o, o, o, u, u, u}
+	{l, o, o, r, r, r, r}
+	{l, o, o, r, r, r, t}
+	{l, o, o, r, r, r, u}
+	{l, o, o, r, r, t, t}
+	{l, o, o, r, r, t, u}
+	{l, o, o, r, r, u, u}
+	{l, o, o, r, t, t, t}
+	{l, o, o, r, t, t, u}
+	{l, o, o, r, t, u, u}
+	{l, o, o, r, u, u, u}
+	{l, o, o, t, t, t, t}
+	{l, o, o, t, t, t, u}
+	{l, o, o, t, t, u, u}
+	{l, o, o, t, u, u, u}
+	{l, o, o, u, u, u, u}
+	{l, o, r, r, r, r, r}
+	{l, o, r, r, r, r, t}
+	{l, o, r, r, r, r, u}
+	{l, o, r, r, r, t, t}
+	{l, o, r, r, r, t, u}
+	{l, o, r, r, r, u, u}
+	{l, o, r, r, t, t, t}
+	{l, o, r, r, t, t, u}
+	{l, o, r, r, t, u, u}
+	{l, o, r, r, u, u, u}
+	{l, o, r, t, t, t, t}
+	{l, o, r, t, t, t, u}
+	{l, o, r, t, t, u, u}
+	{l, o, r, t, u, u, u}
+	{l, o, r, u, u, u, u}
+	{l, o, t, t, t, t, t}
+	{l, o, t, t, t, t, u}
+	{l, o, t, t, t, u, u}
+	{l, o, t, t, u, u, u}
+	{l, o, t, u, u, u, u}
+	{l, o, u, u, u, u, u}
+	{l, r, r, r, r, r, r}
+	{l, r, r, r, r, r, t}
+	{l, r, r, r, r, r, u}
+	{l, r, r, r, r, t, t}
+	{l, r, r, r, r, t, u}
+	{l, r, r, r, r, u, u}
+	{l, r, r, r, t, t, t}
+	{l, r, r, r, t, t, u}
+	{l, r, r, r, t, u, u}
+	{l, r, r, r, u, u, u}
+	{l, r, r, t, t, t, t}
+	{l, r, r, t, t, t, u}
+	{l, r, r, t, t, u, u}
+	{l, r, r, t, u, u, u}
+	{l, r, r, u, u, u, u}
+	{l, r, t, t, t, t, t}
+	{l, r, t, t, t, t, u}
+	{l, r, t, t, t, u, u}
+	{l, r, t, t, u, u, u}
+	{l, r, t, u, u, u, u}
+	{l, r, u, u, u, u, u}
+	{l, t, t, t, t, t, t}
+	{l, t, t, t, t, t, u}
+	{l, t, t, t, t, u, u}
+	{l, t, t, t, u, u, u}
+	{l, t, t, u, u, u, u}
+	{l, t, u, u, u, u, u}
+	{l, u, u, u, u, u, u}
+	{o, o, o, o, o, o, o}
+	{o, o, o, o, o, o, r}
+	{o, o, o, o, o, o, t}
+	{o, o, o, o, o, o, u}
+	{o, o, o, o, o, r, r}
+	{o, o, o, o, o, r, t}
+	{o, o, o, o, o, r, u}
+	{o, o, o, o, o, t, t}
+	{o, o, o, o, o, t, u}
+	{o, o, o, o, o, u, u}
+	{o, o, o, o, r, r, r}
+	{o, o, o, o, r, r, t}
+	{o, o, o, o, r, r, u}
+	{o, o, o, o, r, t, t}
+	{o, o, o, o, r, t, u}
+	{o, o, o, o, r, u, u}
+	{o, o, o, o, t, t, t}
+	{o, o, o, o, t, t, u}
+	{o, o, o, o, t, u, u}
+	{o, o, o, o, u, u, u}
+	{o, o, o, r, r, r, r}
+	{o, o, o, r, r, r, t}
+	{o, o, o, r, r, r, u}
+	{o, o, o, r, r, t, t}
+	{o, o, o, r, r, t, u}
+	{o, o, o, r, r, u, u}
+	{o, o, o, r, t, t, t}
+	{o, o, o, r, t, t, u}
+	{o, o, o, r, t, u, u}
+	{o, o, o, r, u, u, u}
+	{o, o, o, t, t, t, t}
+	{o, o, o, t, t, t, u}
+	{o, o, o, t, t, u, u}
+	{o, o, o, t, u, u, u}
+	{o, o, o, u, u, u, u}
+	{o, o, r, r, r, r, r}
+	{o, o, r, r, r, r, t}
+	{o, o, r, r, r, r, u}
+	{o, o, r, r, r, t, t}
+	{o, o, r, r, r, t, u}
+	{o, o, r, r, r, u, u}
+	{o, o, r, r, t, t, t}
+	{o, o, r, r, t, t, u}
+	{o, o, r, r, t, u, u}
+	{o, o, r, r, u, u, u}
+	{o, o, r, t, t, t, t}
+	{o, o, r, t, t, t, u}
+	{o, o, r, t, t, u, u}
+	{o, o, r, t, u, u, u}
+	{o, o, r, u, u, u, u}
+	{o, o, t, t, t, t, t}
+	{o, o, t, t, t, t, u}
+	{o, o, t, t, t, u, u}
+	{o, o, t, t, u, u, u}
+	{o, o, t, u, u, u, u}
+	{o, o, u, u, u, u, u}
+	{o, r, r, r, r, r, r}
+	{o, r, r, r, r, r, t}
+	{o, r, r, r, r, r, u}
+	{o, r, r, r, r, t, t}
+	{o, r, r, r, r, t, u}
+	{o, r, r, r, r, u, u}
+	{o, r, r, r, t, t, t}
+	{o, r, r, r, t, t, u}
+	{o, r, r, r, t, u, u}
+	{o, r, r, r, u, u, u}
+	{o, r, r, t, t, t, t}
+	{o, r, r, t, t, t, u}
+	{o, r, r, t, t, u, u}
+	{o, r, r, t, u, u, u}
+	{o, r, r, u, u, u, u}
+	{o, r, t, t, t, t, t}
+	{o, r, t, t, t, t, u}
+	{o, r, t, t, t, u, u}
+	{o, r, t, t, u, u, u}
+	{o, r, t, u, u, u, u}
+	{o, r, u, u, u, u, u}
+	{o, t, t, t, t, t, t}
+	{o, t, t, t, t, t, u}
+	{o, t, t, t, t, u, u}
+	{o, t, t, t, u, u, u}
+	{o, t, t, u, u, u, u}
+	{o, t, u, u, u, u, u}
+	{o, u, u, u, u, u, u}
+	{r, r, r, r, r, r, r}
+	{r, r, r, r, r, r, t}
+	{r, r, r, r, r, r, u}
+	{r, r, r, r, r, t, t}
+	{r, r, r, r, r, t, u}
+	{r, r, r, r, r, u, u}
+	{r, r, r, r, t, t, t}
+	{r, r, r, r, t, t, u}
+	{r, r, r, r, t, u, u}
+	{r, r, r, r, u, u, u}
+	{r, r, r, t, t, t, t}
+	{r, r, r, t, t, t, u}
+	{r, r, r, t, t, u, u}
+	{r, r, r, t, u, u, u}
+	{r, r, r, u, u, u, u}
+	{r, r, t, t, t, t, t}
+	{r, r, t, t, t, t, u}
+	{r, r, t, t, t, u, u}
+	{r, r, t, t, u, u, u}
+	{r, r, t, u, u, u, u}
+	{r, r, u, u, u, u, u}
+	{r, t, t, t, t, t, t}
+	{r, t, t, t, t, t, u}
+	{r, t, t, t, t, u, u}
+	{r, t, t, t, u, u, u}
+	{r, t, t, u, u, u, u}
+	{r, t, u, u, u, u, u}
+	{r, u, u, u, u, u, u}
+	{t, t, t, t, t, t, t}
+	{t, t, t, t, t, t, u}
+	{t, t, t, t, t, u, u}
+	{t, t, t, t, u, u, u}
+	{t, t, t, u, u, u, u}
+	{t, t, u, u, u, u, u}
+	{t, u, u, u, u, u, u}
+	{u, u, u, u, u, u, u}
+}
+

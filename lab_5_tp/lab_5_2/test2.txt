@@ -1,0 +1,10 @@
+Mar 23 12:27:50 blackbox systemd[1]: Started CUPS Scheduler.
+Mar 23 12:37:29 blackbox ntpd[30074]: 91.216.151.59 local addr 192.168.30.156 -> <null>
+Mar 23 12:38:22 blackbox ntpd[30074]: 93.190.144.3 local addr 192.168.30.156 -> <null>
+Mar 23 12:38:27 blackbox ntpd[30074]: 82.77.52.43 local addr 192.168.30.156 -> <null>
+Mar 23 12:38:32 blackbox ntpd[30074]: 84.232.245.55 local addr 192.168.30.156 -> <null>
+Mar 23 12:38:35 blackbox ntpd[30074]: 89.149.54.18 local addr 192.168.30.156 -> <null>
+Mar 23 12:39:01 blackbox CRON[1770]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar 23 12:39:02 blackbox systemd[1]: Starting Clean php session files...
+Mar 23 12:39:03 blackbox sessionclean[1772]: Failed loading /usr/lib/php/20160303/xdebug.so:  /usr/lib/php/20160303/xdebug.so: undefined symbol: zend_pass_function
+Mar 23 12:39:03 blackbox systemd[1]: Started Clean php session files.

@@ -1,0 +1,10 @@
+Mar 23 10:08:40 blackbox ntpd[18644]: bind(22) AF_INET6 fe80::86a6:c8ff:fe3d:d8da%3#123 flags 0x11 failed: Cannot assign requested address
+Mar 23 10:08:40 blackbox ntpd[18644]: unable to create socket on wlp2s0 (81) for fe80::86a6:c8ff:fe3d:d8da%3#123
+Mar 23 10:08:40 blackbox ntpd[18644]: failed to init interface for address fe80::86a6:c8ff:fe3d:d8da%3
+Mar 23 10:09:02 blackbox CRON[25652]: (root) CMD (  [ -x /usr/lib/php/sessionclean ] && if [ ! -d /run/systemd/system ]; then /usr/lib/php/sessionclean; fi)
+Mar 23 10:09:02 blackbox systemd[1]: Starting Clean php session files...
+Mar 23 10:09:03 blackbox sessionclean[25653]: Failed loading /usr/lib/php/20160303/xdebug.so:  /usr/lib/php/20160303/xdebug.so: undefined symbol: zend_pass_function
+Mar 23 10:09:03 blackbox systemd[1]: Started Clean php session files.
+Mar 23 10:10:40 blackbox ntpd[18644]: bind(22) AF_INET6 fe80::86a6:c8ff:fe3d:d8da%3#123 flags 0x11 failed: Cannot assign requested address
+Mar 23 10:10:40 blackbox ntpd[18644]: unable to create socket on wlp2s0 (82) for fe80::86a6:c8ff:fe3d:d8da%3#123
+Mar 23 10:10:40 blackbox ntpd[18644]: failed to init interface for address fe80::86a6:c8ff:fe3d:d8da%3

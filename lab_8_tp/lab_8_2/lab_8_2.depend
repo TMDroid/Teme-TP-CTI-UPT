@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1495050323 source:/home/danny/facultate/tp/lab_8_tp/lab_8_2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

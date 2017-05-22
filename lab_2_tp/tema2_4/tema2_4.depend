@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1488482057 source:/home/danny/projects/c/tp/tema2_4/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

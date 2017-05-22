@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1490866307 source:/home/danny/projects/c/tp/lab_6_tp/lab_6_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1494493483 source:/home/danny/facultate/tp/lab_6_tp/lab_6_1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

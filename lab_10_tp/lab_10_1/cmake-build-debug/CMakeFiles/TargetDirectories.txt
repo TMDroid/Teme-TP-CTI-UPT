@@ -1,0 +1,3 @@
+/home/danny/facultate/tp/lab_10_tp/lab_10_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/danny/facultate/tp/lab_10_tp/lab_10_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/danny/facultate/tp/lab_10_tp/lab_10_1/cmake-build-debug/CMakeFiles/lab_10_tp.dir
